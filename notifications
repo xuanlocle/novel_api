@@ -63,7 +63,7 @@
             "createdBy": 5229133,
             "createdAt": "2021-03-11T08:25:39.015Z",
             "ownedBy": 9551811
-        },
+        }
     ],
     "pagination": {
         "nextUrl": "/notifications?nid=123131"
