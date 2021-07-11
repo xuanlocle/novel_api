@@ -1,0 +1,5600 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "diem": "Ân ái",
+      "soDanh": "25 - 75"
+    },
+    {
+      "id": 2,
+      "diem": "Ăn cá to",
+      "soDanh": "05 - 60"
+    },
+    {
+      "id": 3,
+      "diem": "Ăn cắp xe đạp",
+      "soDanh": "34"
+    },
+    {
+      "id": 4,
+      "diem": "Ăn chay",
+      "soDanh": "86 - 85"
+    },
+    {
+      "id": 5,
+      "diem": "Ăn chua",
+      "soDanh": "93 - 39"
+    },
+    {
+      "id": 6,
+      "diem": "Ăn chuối",
+      "soDanh": "34 - 64"
+    },
+    {
+      "id": 7,
+      "diem": "Ăn cỗ",
+      "soDanh": "93 - 67"
+    },
+    {
+      "id": 8,
+      "diem": "Ăn cơm",
+      "soDanh": "74 - 85"
+    },
+    {
+      "id": 9,
+      "diem": "Ăn củ đậu",
+      "soDanh": "38 - 39"
+    },
+    {
+      "id": 10,
+      "diem": "Ăn hàng",
+      "soDanh": "03 - 04 - 52 - 19"
+    },
+    {
+      "id": 11,
+      "diem": "Ăn hoa quả",
+      "soDanh": "84 - 68"
+    },
+    {
+      "id": 12,
+      "diem": "Ăn khoai",
+      "soDanh": "75 - 85 - 58"
+    },
+    {
+      "id": 13,
+      "diem": "Ăn mày",
+      "soDanh": "1"
+    },
+    {
+      "id": 14,
+      "diem": "Ăn no quá",
+      "soDanh": "95 - 79"
+    },
+    {
+      "id": 15,
+      "diem": "Ăn thịt mèo",
+      "soDanh": "19 - 91"
+    },
+    {
+      "id": 16,
+      "diem": "Ăn thịt người",
+      "soDanh": "83 - 85"
+    },
+    {
+      "id": 17,
+      "diem": "Ăn tiệc",
+      "soDanh": "83 - 87"
+    },
+    {
+      "id": 18,
+      "diem": "Ăn tiệm",
+      "soDanh": "26 - 56 - 21"
+    },
+    {
+      "id": 19,
+      "diem": "Ăn tôm",
+      "soDanh": "83 - 89"
+    },
+    {
+      "id": 20,
+      "diem": "Ăn trộm cá",
+      "soDanh": "63 - 78 - 87"
+    },
+    {
+      "id": 21,
+      "diem": "Ăn trộm xe máy",
+      "soDanh": "4"
+    },
+    {
+      "id": 22,
+      "diem": "Ăn trộm",
+      "soDanh": "01 - 90"
+    },
+    {
+      "id": 23,
+      "diem": "Ăn trưa",
+      "soDanh": "01 - 02 - 92"
+    },
+    {
+      "id": 24,
+      "diem": "Ảnh bà cụ",
+      "soDanh": "54 - 59"
+    },
+    {
+      "id": 25,
+      "diem": "Ánh chớp",
+      "soDanh": "53"
+    },
+    {
+      "id": 26,
+      "diem": "Anh em gặp nhau",
+      "soDanh": "1"
+    },
+    {
+      "id": 27,
+      "diem": "Áo bay",
+      "soDanh": "40 - 45"
+    },
+    {
+      "id": 28,
+      "diem": "Áo bu dông",
+      "soDanh": "08 - 06 - 56"
+    },
+    {
+      "id": 29,
+      "diem": "Áo của chồng",
+      "soDanh": "07 - 70"
+    },
+    {
+      "id": 30,
+      "diem": "Áo của phụ nữ",
+      "soDanh": "00 - 02"
+    },
+    {
+      "id": 31,
+      "diem": "Áo của vợ",
+      "soDanh": "09 - 19 - 91"
+    },
+    {
+      "id": 32,
+      "diem": "Áo dài nữ",
+      "soDanh": "64 - 46"
+    },
+    {
+      "id": 33,
+      "diem": "Ao hồ sông ngòi",
+      "soDanh": "38 - 93 - 54"
+    },
+    {
+      "id": 34,
+      "diem": "Áo hoa",
+      "soDanh": "22 - 33"
+    },
+    {
+      "id": 35,
+      "diem": "Áo len",
+      "soDanh": "34 - 84"
+    },
+    {
+      "id": 36,
+      "diem": "Áo lót",
+      "soDanh": "09 - 59"
+    },
+    {
+      "id": 37,
+      "diem": "Áo mưa",
+      "soDanh": "87 - 42 - 07 - 67"
+    },
+    {
+      "id": 38,
+      "diem": "Áo tây",
+      "soDanh": "00 - 04"
+    },
+    {
+      "id": 39,
+      "diem": "Áo thể thao",
+      "soDanh": "43 - 34"
+    },
+    {
+      "id": 40,
+      "diem": "Áo trẻ em",
+      "soDanh": "01 - 00 - 05"
+    },
+    {
+      "id": 41,
+      "diem": "Ao ước",
+      "soDanh": "25 - 52"
+    },
+    {
+      "id": 42,
+      "diem": "Áo vét",
+      "soDanh": "95 - 54 - 59"
+    },
+    {
+      "id": 43,
+      "diem": "Ba ba",
+      "soDanh": "76"
+    },
+    {
+      "id": 44,
+      "diem": "Ba bố con ăn no",
+      "soDanh": "19"
+    },
+    {
+      "id": 45,
+      "diem": "Bà chết sống lại",
+      "soDanh": "93 - 96"
+    },
+    {
+      "id": 46,
+      "diem": "Bà chửa",
+      "soDanh": "09, 29, 39"
+    },
+    {
+      "id": 47,
+      "diem": "Bà già trẻ em",
+      "soDanh": "14 - 41"
+    },
+    {
+      "id": 48,
+      "diem": "Bà vãi",
+      "soDanh": "36 - 76"
+    },
+    {
+      "id": 49,
+      "diem": "Bãi biển",
+      "soDanh": "25 - 93"
+    },
+    {
+      "id": 50,
+      "diem": "Bãi cá",
+      "soDanh": "95 - 83"
+    },
+    {
+      "id": 51,
+      "diem": "Bài có tứ quý",
+      "soDanh": "63 - 64"
+    },
+    {
+      "id": 52,
+      "diem": "Bãi tha ma",
+      "soDanh": "78 - 87"
+    },
+    {
+      "id": 53,
+      "diem": "Bàn ăn bầy đẹp",
+      "soDanh": "6"
+    },
+    {
+      "id": 54,
+      "diem": "Bàn ăn dọn sạch",
+      "soDanh": "42 - 46"
+    },
+    {
+      "id": 55,
+      "diem": "Bắn bị thương",
+      "soDanh": "48"
+    },
+    {
+      "id": 56,
+      "diem": "Bàn cờ",
+      "soDanh": "14 - 54 - 74 - 94"
+    },
+    {
+      "id": 57,
+      "diem": "Bắn cung tên",
+      "soDanh": "77 - 72"
+    },
+    {
+      "id": 58,
+      "diem": "Bán hàng",
+      "soDanh": "18 - 28 - 98"
+    },
+    {
+      "id": 59,
+      "diem": "Bạn hiền",
+      "soDanh": "38 - 83"
+    },
+    {
+      "id": 60,
+      "diem": "Bán nhẫn vàng",
+      "soDanh": "67"
+    },
+    {
+      "id": 61,
+      "diem": "Bàn thờ bị đổ",
+      "soDanh": "05 - 55"
+    },
+    {
+      "id": 62,
+      "diem": "Bàn thờ nghi ngút",
+      "soDanh": "89 - 98"
+    },
+    {
+      "id": 63,
+      "diem": "Bàn thờ",
+      "soDanh": "15 - 43 - 46 - 95"
+    },
+    {
+      "id": 64,
+      "diem": "Băng đạn",
+      "soDanh": "32"
+    },
+    {
+      "id": 65,
+      "diem": "Bằng lòng đồng ý",
+      "soDanh": "52 - 32"
+    },
+    {
+      "id": 66,
+      "diem": "Bánh dày",
+      "soDanh": "85"
+    },
+    {
+      "id": 67,
+      "diem": "Bánh mì đen",
+      "soDanh": "35 - 54"
+    },
+    {
+      "id": 68,
+      "diem": "Bánh ngọt",
+      "soDanh": "52 - 02"
+    },
+    {
+      "id": 69,
+      "diem": "Bánh pháo",
+      "soDanh": "34"
+    },
+    {
+      "id": 70,
+      "diem": "Bánh tẩm bột rán",
+      "soDanh": "53 - 65"
+    },
+    {
+      "id": 71,
+      "diem": "Bánh xe",
+      "soDanh": "82"
+    },
+    {
+      "id": 72,
+      "diem": "Bao diêm",
+      "soDanh": "65"
+    },
+    {
+      "id": 73,
+      "diem": "Bảo lãnh đỡ đầu",
+      "soDanh": "86"
+    },
+    {
+      "id": 74,
+      "diem": "Bảo vật",
+      "soDanh": "06 - 31 - 63 - 82"
+    },
+    {
+      "id": 75,
+      "diem": "Báo",
+      "soDanh": "26 - 62"
+    },
+    {
+      "id": 76,
+      "diem": "Bắp cải",
+      "soDanh": "50 - 52"
+    },
+    {
+      "id": 77,
+      "diem": "Bắp ngô",
+      "soDanh": "85 - 35 - 53"
+    },
+    {
+      "id": 78,
+      "diem": "Bắt bớ",
+      "soDanh": "05 - 19"
+    },
+    {
+      "id": 79,
+      "diem": "Bắt cá ở suối",
+      "soDanh": "45"
+    },
+    {
+      "id": 80,
+      "diem": "Bát đĩa",
+      "soDanh": "85 - 87"
+    },
+    {
+      "id": 81,
+      "diem": "Bắt được nhiều cá",
+      "soDanh": "23 - 65 - 08 - 56"
+    },
+    {
+      "id": 82,
+      "diem": "Bật lửa",
+      "soDanh": "07 - 70 - 75"
+    },
+    {
+      "id": 83,
+      "diem": "Bất lực",
+      "soDanh": "26 - 32"
+    },
+    {
+      "id": 84,
+      "diem": "Bát ngọc",
+      "soDanh": "30 - 70"
+    },
+    {
+      "id": 85,
+      "diem": "Bát nhang",
+      "soDanh": "02 - 52 - 24"
+    },
+    {
+      "id": 86,
+      "diem": "Bắt rận cho chó",
+      "soDanh": "93 - 83"
+    },
+    {
+      "id": 87,
+      "diem": "Bát",
+      "soDanh": "31 - 38"
+    },
+    {
+      "id": 88,
+      "diem": "Bẻ gẫy đập vỡ",
+      "soDanh": "96 - 04"
+    },
+    {
+      "id": 89,
+      "diem": "Bè gỗ",
+      "soDanh": "19 - 69"
+    },
+    {
+      "id": 90,
+      "diem": "Bẻ ngô",
+      "soDanh": "53 - 35"
+    },
+    {
+      "id": 91,
+      "diem": "Bể nước ăn",
+      "soDanh": "45 - 62 - 21"
+    },
+    {
+      "id": 92,
+      "diem": "Bể nước",
+      "soDanh": "62 - 81"
+    },
+    {
+      "id": 93,
+      "diem": "Bể nuôi cá cảnh",
+      "soDanh": "14 - 54"
+    },
+    {
+      "id": 94,
+      "diem": "Bến xe",
+      "soDanh": "58 - 98"
+    },
+    {
+      "id": 95,
+      "diem": "Bếp củi cháy to",
+      "soDanh": "96 - 21"
+    },
+    {
+      "id": 96,
+      "diem": "Bếp đun",
+      "soDanh": "40 - 49"
+    },
+    {
+      "id": 97,
+      "diem": "Bếp lò",
+      "soDanh": "43 - 63 - 83"
+    },
+    {
+      "id": 98,
+      "diem": "Bẹp lốp xe",
+      "soDanh": "58 - 98"
+    },
+    {
+      "id": 99,
+      "diem": "Bếp lửa",
+      "soDanh": "20 - 25 - 54"
+    },
+    {
+      "id": 100,
+      "diem": "Bị bỏng lửa",
+      "soDanh": "69 - 80"
+    },
+    {
+      "id": 101,
+      "diem": "Bị bỏng nước sôi",
+      "soDanh": "2"
+    },
+    {
+      "id": 102,
+      "diem": "Bị bỏng vào đùi",
+      "soDanh": "17 - 71"
+    },
+    {
+      "id": 103,
+      "diem": "Bị bỏng vào mồm",
+      "soDanh": "16 - 50 - 15"
+    },
+    {
+      "id": 104,
+      "diem": "Bị bỏng vào tay",
+      "soDanh": "17 - 21"
+    },
+    {
+      "id": 105,
+      "diem": "Bị con gái bắt nạt",
+      "soDanh": "65 - 07"
+    },
+    {
+      "id": 106,
+      "diem": "Bị đấm",
+      "soDanh": "58"
+    },
+    {
+      "id": 107,
+      "diem": "Bị đánh bằng dao",
+      "soDanh": "01 - 12"
+    },
+    {
+      "id": 108,
+      "diem": "Bị đánh bất ngờ",
+      "soDanh": "91 - 41"
+    },
+    {
+      "id": 109,
+      "diem": "Bị ghép tội",
+      "soDanh": "46 - 73 - 21"
+    },
+    {
+      "id": 110,
+      "diem": "Bị giật dây chuyền",
+      "soDanh": "65"
+    },
+    {
+      "id": 111,
+      "diem": "Bị giật đồng hồ",
+      "soDanh": "06 - 41"
+    },
+    {
+      "id": 112,
+      "diem": "Bị kẻ thù dọa",
+      "soDanh": "39 - 72"
+    },
+    {
+      "id": 113,
+      "diem": "Bị mẹ chửi rủa",
+      "soDanh": "83 - 97"
+    },
+    {
+      "id": 114,
+      "diem": "Bị mẹ chửi",
+      "soDanh": "16 - 37"
+    },
+    {
+      "id": 115,
+      "diem": "Bị phạt",
+      "soDanh": "51 - 56"
+    },
+    {
+      "id": 116,
+      "diem": "Bị tấn công",
+      "soDanh": "02 - 05"
+    },
+    {
+      "id": 117,
+      "diem": "Bị thủ tiêu",
+      "soDanh": "06 - 14"
+    },
+    {
+      "id": 118,
+      "diem": "Bị thương",
+      "soDanh": "03 - 90 - 63"
+    },
+    {
+      "id": 119,
+      "diem": "Bị trấn lột",
+      "soDanh": "84 - 85"
+    },
+    {
+      "id": 120,
+      "diem": "Bị vây đuổi",
+      "soDanh": "83 - 38"
+    },
+    {
+      "id": 121,
+      "diem": "Bia mộ",
+      "soDanh": "05 - 85"
+    },
+    {
+      "id": 122,
+      "diem": "Biển cạn",
+      "soDanh": "58 - 53"
+    },
+    {
+      "id": 123,
+      "diem": "Biển xanh",
+      "soDanh": "68 - 83 - 06"
+    },
+    {
+      "id": 124,
+      "diem": "Biển",
+      "soDanh": "58"
+    },
+    {
+      "id": 125,
+      "diem": "Biếu cụ",
+      "soDanh": "58 - 85"
+    },
+    {
+      "id": 126,
+      "diem": "Bộ mặt buồn",
+      "soDanh": "51 - 56"
+    },
+    {
+      "id": 127,
+      "diem": "Bố bế con gái",
+      "soDanh": "07 - 57"
+    },
+    {
+      "id": 128,
+      "diem": "Bố bế con trai",
+      "soDanh": "81 - 11 - 52"
+    },
+    {
+      "id": 129,
+      "diem": "Bổ củi",
+      "soDanh": "83"
+    },
+    {
+      "id": 130,
+      "diem": "Bỏ mặc",
+      "soDanh": "01 - 10 - 11 - 16"
+    },
+    {
+      "id": 131,
+      "diem": "Bộ mặt đẹp",
+      "soDanh": "22 - 98 - 39"
+    },
+    {
+      "id": 132,
+      "diem": "Bộ mặt sầu",
+      "soDanh": "42 - 61"
+    },
+    {
+      "id": 133,
+      "diem": "Bộ mặt tươi cười",
+      "soDanh": "41 - 46"
+    },
+    {
+      "id": 134,
+      "diem": "Bố mẹ, bố con",
+      "soDanh": "20 - 60 - 21"
+    },
+    {
+      "id": 135,
+      "diem": "Bố nuôi",
+      "soDanh": "60 - 70"
+    },
+    {
+      "id": 136,
+      "diem": "Bộ quần áo vá",
+      "soDanh": "06 - 90"
+    },
+    {
+      "id": 137,
+      "diem": "Bỏ thuốc lá",
+      "soDanh": "12 - 21"
+    },
+    {
+      "id": 138,
+      "diem": "Bơi giữa sông",
+      "soDanh": "89 - 98"
+    },
+    {
+      "id": 139,
+      "diem": "Bơi lội",
+      "soDanh": "83 - 38 - 63 - 28"
+    },
+    {
+      "id": 140,
+      "diem": "Bơi nước trong",
+      "soDanh": "89 - 39"
+    },
+    {
+      "id": 141,
+      "diem": "Bom đạn",
+      "soDanh": "22 - 62"
+    },
+    {
+      "id": 142,
+      "diem": "Bốn người khiêng quan tài",
+      "soDanh": "43 - 44 - 54"
+    },
+    {
+      "id": 143,
+      "diem": "Bóng bàn",
+      "soDanh": "15 - 95 - 49"
+    },
+    {
+      "id": 144,
+      "diem": "Bóng đá",
+      "soDanh": "62"
+    },
+    {
+      "id": 145,
+      "diem": "Bóng đen",
+      "soDanh": "58"
+    },
+    {
+      "id": 146,
+      "diem": "Bông hoa",
+      "soDanh": "39"
+    },
+    {
+      "id": 147,
+      "diem": "Bóng ma",
+      "soDanh": "72 - 85"
+    },
+    {
+      "id": 148,
+      "diem": "Bóng rổ",
+      "soDanh": "2"
+    },
+    {
+      "id": 149,
+      "diem": "Bông sen",
+      "soDanh": "24 - 74"
+    },
+    {
+      "id": 150,
+      "diem": "Bù nhìn",
+      "soDanh": "27 - 29 - 79"
+    },
+    {
+      "id": 151,
+      "diem": "Bữa ăn một mình",
+      "soDanh": "74 - 31 - 84 - 14 - 16"
+    },
+    {
+      "id": 152,
+      "diem": "Bùa giải",
+      "soDanh": "16 - 18 - 78"
+    },
+    {
+      "id": 153,
+      "diem": "Bụi cây",
+      "soDanh": "56, 65"
+    },
+    {
+      "id": 154,
+      "diem": "Bùn đầm lầy",
+      "soDanh": "82 - 62"
+    },
+    {
+      "id": 155,
+      "diem": "Bùn lấy",
+      "soDanh": "73 - 37 - 23"
+    },
+    {
+      "id": 156,
+      "diem": "Buộc mắc dây",
+      "soDanh": "07 - 14"
+    },
+    {
+      "id": 157,
+      "diem": "Bươm bướm",
+      "soDanh": "26 - 62"
+    },
+    {
+      "id": 158,
+      "diem": "Buồn phiền",
+      "soDanh": "42 - 32"
+    },
+    {
+      "id": 159,
+      "diem": "Buồn vì chồng",
+      "soDanh": "01 - 07"
+    },
+    {
+      "id": 160,
+      "diem": "Buồn vì vợ",
+      "soDanh": "09 - 90"
+    },
+    {
+      "id": 161,
+      "diem": "Buồng cau",
+      "soDanh": "10 - 30 - 70 - 75"
+    },
+    {
+      "id": 162,
+      "diem": "Buồng chuối",
+      "soDanh": "70 - 72"
+    },
+    {
+      "id": 163,
+      "diem": "Buồng kín",
+      "soDanh": "41 - 70 - 72"
+    },
+    {
+      "id": 164,
+      "diem": "Cá cảnh",
+      "soDanh": "40"
+    },
+    {
+      "id": 165,
+      "diem": "Cá chép",
+      "soDanh": "58"
+    },
+    {
+      "id": 166,
+      "diem": "Cá chuối",
+      "soDanh": "59"
+    },
+    {
+      "id": 167,
+      "diem": "Cá chuồn",
+      "soDanh": "76"
+    },
+    {
+      "id": 168,
+      "diem": "Ca hát vui chơi",
+      "soDanh": "19 - 29"
+    },
+    {
+      "id": 169,
+      "diem": "Ca hát",
+      "soDanh": "07 - 57 - 94"
+    },
+    {
+      "id": 170,
+      "diem": "Cá lóc",
+      "soDanh": "68"
+    },
+    {
+      "id": 171,
+      "diem": "Cá mây chiều",
+      "soDanh": "28 - 82"
+    },
+    {
+      "id": 172,
+      "diem": "Cá nướng",
+      "soDanh": "48"
+    },
+    {
+      "id": 173,
+      "diem": "Cá quả",
+      "soDanh": "45"
+    },
+    {
+      "id": 174,
+      "diem": "Cá rô",
+      "soDanh": "20 - 40 - 82"
+    },
+    {
+      "id": 175,
+      "diem": "Cá sấu",
+      "soDanh": "89"
+    },
+    {
+      "id": 176,
+      "diem": "Cá thường",
+      "soDanh": "56"
+    },
+    {
+      "id": 177,
+      "diem": "Cá to nhỏ",
+      "soDanh": "9"
+    },
+    {
+      "id": 178,
+      "diem": "Cá trạch",
+      "soDanh": "85"
+    },
+    {
+      "id": 179,
+      "diem": "Cá trắm",
+      "soDanh": "01 - 41 - 81 - 43"
+    },
+    {
+      "id": 180,
+      "diem": "Cá trắng",
+      "soDanh": "46"
+    },
+    {
+      "id": 181,
+      "diem": "Cá trê",
+      "soDanh": "48"
+    },
+    {
+      "id": 182,
+      "diem": "Cá vàng",
+      "soDanh": "20 - 29"
+    },
+    {
+      "id": 183,
+      "diem": "Cá",
+      "soDanh": "79"
+    },
+    {
+      "id": 184,
+      "diem": "Cái bàn",
+      "soDanh": "95"
+    },
+    {
+      "id": 185,
+      "diem": "Cái bình",
+      "soDanh": "85"
+    },
+    {
+      "id": 186,
+      "diem": "Cái cân",
+      "soDanh": "89 - 86"
+    },
+    {
+      "id": 187,
+      "diem": "Cái câu",
+      "soDanh": "01 - 26 - 73"
+    },
+    {
+      "id": 188,
+      "diem": "Cái cày",
+      "soDanh": "26 - 75 - 56"
+    },
+    {
+      "id": 189,
+      "diem": "Cái chậu",
+      "soDanh": "94 - 32"
+    },
+    {
+      "id": 190,
+      "diem": "Cái chày",
+      "soDanh": "11 - 98"
+    },
+    {
+      "id": 191,
+      "diem": "Cái chén",
+      "soDanh": "93"
+    },
+    {
+      "id": 192,
+      "diem": "Cái chổi",
+      "soDanh": "85 - 93"
+    },
+    {
+      "id": 193,
+      "diem": "Cái chum",
+      "soDanh": "75 - 35"
+    },
+    {
+      "id": 194,
+      "diem": "Cái cù",
+      "soDanh": "02 - 32 - 62"
+    },
+    {
+      "id": 195,
+      "diem": "Cái dấu",
+      "soDanh": "25 - 75"
+    },
+    {
+      "id": 196,
+      "diem": "Cái ghế",
+      "soDanh": "49 - 68"
+    },
+    {
+      "id": 197,
+      "diem": "Cái giếng",
+      "soDanh": "92 - 29"
+    },
+    {
+      "id": 198,
+      "diem": "Cái kẹo",
+      "soDanh": "36 - 02"
+    },
+    {
+      "id": 199,
+      "diem": "Cái kim",
+      "soDanh": "84 - 34"
+    },
+    {
+      "id": 200,
+      "diem": "Cái kính",
+      "soDanh": "85"
+    },
+    {
+      "id": 201,
+      "diem": "Cái làn",
+      "soDanh": "84 - 85"
+    },
+    {
+      "id": 202,
+      "diem": "Cái mả",
+      "soDanh": "30 - 70 - 40 - 90"
+    },
+    {
+      "id": 203,
+      "diem": "Cái mai",
+      "soDanh": "19 - 91 - 87"
+    },
+    {
+      "id": 204,
+      "diem": "Cái mâm",
+      "soDanh": "18 - 81 - 86"
+    },
+    {
+      "id": 205,
+      "diem": "Cái màn xanh",
+      "soDanh": "14 - 41"
+    },
+    {
+      "id": 206,
+      "diem": "Cái màn",
+      "soDanh": "85 - 97"
+    },
+    {
+      "id": 207,
+      "diem": "Cái miệng",
+      "soDanh": "78"
+    },
+    {
+      "id": 208,
+      "diem": "Cái miếu",
+      "soDanh": "63 - 68"
+    },
+    {
+      "id": 209,
+      "diem": "Cái môi",
+      "soDanh": "00 - 75"
+    },
+    {
+      "id": 210,
+      "diem": "Cái mũ",
+      "soDanh": "28 - 46 - 86 - 68"
+    },
+    {
+      "id": 211,
+      "diem": "Cái muôi",
+      "soDanh": "71"
+    },
+    {
+      "id": 212,
+      "diem": "Cái nhà",
+      "soDanh": "27 - 77 - 91 - 41"
+    },
+    {
+      "id": 213,
+      "diem": "Cái nhẫn",
+      "soDanh": "81"
+    },
+    {
+      "id": 214,
+      "diem": "Cãi nhau",
+      "soDanh": "36 - 37 - 68"
+    },
+    {
+      "id": 215,
+      "diem": "Cái nhìn hẹp hòi",
+      "soDanh": "72 - 72"
+    },
+    {
+      "id": 216,
+      "diem": "Cái nhìn nham hiểm",
+      "soDanh": "61 - 49"
+    },
+    {
+      "id": 217,
+      "diem": "Cái nhìn tốt",
+      "soDanh": "27 - 72"
+    },
+    {
+      "id": 218,
+      "diem": "Cái nón",
+      "soDanh": "05 - 15 - 75"
+    },
+    {
+      "id": 219,
+      "diem": "Cái tát",
+      "soDanh": "6"
+    },
+    {
+      "id": 220,
+      "diem": "Cái tẩu",
+      "soDanh": "26 - 75 - 21"
+    },
+    {
+      "id": 221,
+      "diem": "Cái thìa",
+      "soDanh": "54"
+    },
+    {
+      "id": 222,
+      "diem": "Cái thuổng",
+      "soDanh": "94 - 96"
+    },
+    {
+      "id": 223,
+      "diem": "Cái tích",
+      "soDanh": "93"
+    },
+    {
+      "id": 224,
+      "diem": "Cái xẻng",
+      "soDanh": "63 - 64"
+    },
+    {
+      "id": 225,
+      "diem": "Cái xích",
+      "soDanh": "79 - 82"
+    },
+    {
+      "id": 226,
+      "diem": "Căn buồng bình thường",
+      "soDanh": "20 - 21 - 40 - 60"
+    },
+    {
+      "id": 227,
+      "diem": "Cần câu",
+      "soDanh": "26 - 75"
+    },
+    {
+      "id": 228,
+      "diem": "Cảnh buồn",
+      "soDanh": "46"
+    },
+    {
+      "id": 229,
+      "diem": "Cánh cửa cũ",
+      "soDanh": "44 - 94"
+    },
+    {
+      "id": 230,
+      "diem": "Cánh cửa mới đóng",
+      "soDanh": "42 - 43 - 52"
+    },
+    {
+      "id": 231,
+      "diem": "Cánh cửa",
+      "soDanh": "28 - 83"
+    },
+    {
+      "id": 232,
+      "diem": "Cánh tay lông lá",
+      "soDanh": "42"
+    },
+    {
+      "id": 233,
+      "diem": "Cánh tay",
+      "soDanh": "18 - 81"
+    },
+    {
+      "id": 234,
+      "diem": "Cào cào",
+      "soDanh": "53"
+    },
+    {
+      "id": 235,
+      "diem": "Cạo râu",
+      "soDanh": "83 - 84"
+    },
+    {
+      "id": 236,
+      "diem": "Cắt tóc nam",
+      "soDanh": "14 - 54 - 65 - 45"
+    },
+    {
+      "id": 237,
+      "diem": "Cắt tóc nữ",
+      "soDanh": "57 - 85"
+    },
+    {
+      "id": 238,
+      "diem": "Cắt tóc",
+      "soDanh": "82 - 83 - 85"
+    },
+    {
+      "id": 239,
+      "diem": "Cát",
+      "soDanh": "36 - 63"
+    },
+    {
+      "id": 240,
+      "diem": "Câu cá ao hồ",
+      "soDanh": "08 - 80 - 85"
+    },
+    {
+      "id": 241,
+      "diem": "Câu cá rô",
+      "soDanh": "76"
+    },
+    {
+      "id": 242,
+      "diem": "Câu được cá",
+      "soDanh": "83 - 33"
+    },
+    {
+      "id": 243,
+      "diem": "Câu được rắn",
+      "soDanh": "01 - 81"
+    },
+    {
+      "id": 244,
+      "diem": "Cầu vồng",
+      "soDanh": "04 - 40 - 45"
+    },
+    {
+      "id": 245,
+      "diem": "Cây cảnh trong nhà",
+      "soDanh": "6"
+    },
+    {
+      "id": 246,
+      "diem": "Cày cấy",
+      "soDanh": "09 - 90 - 89"
+    },
+    {
+      "id": 247,
+      "diem": "Cây chuối",
+      "soDanh": "34 - 84"
+    },
+    {
+      "id": 248,
+      "diem": "Cây cổ thụ",
+      "soDanh": "50 - 54"
+    },
+    {
+      "id": 249,
+      "diem": "Cây khế",
+      "soDanh": "07 - 70"
+    },
+    {
+      "id": 250,
+      "diem": "Cây không hoa",
+      "soDanh": "75 - 85"
+    },
+    {
+      "id": 251,
+      "diem": "Cây nhiều lộc",
+      "soDanh": "04 - 05"
+    },
+    {
+      "id": 252,
+      "diem": "Cây nở hoa",
+      "soDanh": "43 - 16 - 61"
+    },
+    {
+      "id": 253,
+      "diem": "Cây sai quả",
+      "soDanh": "49 - 73 - 36"
+    },
+    {
+      "id": 254,
+      "diem": "Cây to",
+      "soDanh": "33 - 66 - 76"
+    },
+    {
+      "id": 255,
+      "diem": "Cây xoan",
+      "soDanh": "49 - 94"
+    },
+    {
+      "id": 256,
+      "diem": "Chải chuốt",
+      "soDanh": "20 - 30 - 60"
+    },
+    {
+      "id": 257,
+      "diem": "Chai lọ",
+      "soDanh": "34 - 50"
+    },
+    {
+      "id": 258,
+      "diem": "Chái thìa",
+      "soDanh": "63"
+    },
+    {
+      "id": 259,
+      "diem": "Chai",
+      "soDanh": "94 - 86"
+    },
+    {
+      "id": 260,
+      "diem": "Chăn gối",
+      "soDanh": "46 - 47 - 70"
+    },
+    {
+      "id": 261,
+      "diem": "Cánh chim",
+      "soDanh": "01 - 65"
+    },
+    {
+      "id": 262,
+      "diem": "Cháo lòng",
+      "soDanh": "49 - 97"
+    },
+    {
+      "id": 263,
+      "diem": "Chấy đầy đầu",
+      "soDanh": "57 - 59"
+    },
+    {
+      "id": 264,
+      "diem": "Cháy đồ điện",
+      "soDanh": "77 - 78 - 79"
+    },
+    {
+      "id": 265,
+      "diem": "Cháy đống rơm",
+      "soDanh": "17 - 71 - 27 - 72"
+    },
+    {
+      "id": 266,
+      "diem": "Chảy máu",
+      "soDanh": "08 - 19 - 29 - 69"
+    },
+    {
+      "id": 267,
+      "diem": "Cháy nhà",
+      "soDanh": "05 - 43 - 67"
+    },
+    {
+      "id": 268,
+      "diem": "Chấy rận",
+      "soDanh": "79 - 84 - 02"
+    },
+    {
+      "id": 269,
+      "diem": "Chém chuột",
+      "soDanh": "92"
+    },
+    {
+      "id": 270,
+      "diem": "Chém nhau",
+      "soDanh": "17 - 37 - 77"
+    },
+    {
+      "id": 271,
+      "diem": "Chén to",
+      "soDanh": "94 - 95"
+    },
+    {
+      "id": 272,
+      "diem": "Chết đuối sống lại",
+      "soDanh": "00 - 06"
+    },
+    {
+      "id": 273,
+      "diem": "Chết đuối",
+      "soDanh": "07 - 30 - 84"
+    },
+    {
+      "id": 274,
+      "diem": "Chết sống lại",
+      "soDanh": "62 - 74"
+    },
+    {
+      "id": 275,
+      "diem": "Chia ly",
+      "soDanh": "52 - 57 - 72"
+    },
+    {
+      "id": 276,
+      "diem": "Chiến thắng",
+      "soDanh": "96 - 86"
+    },
+    {
+      "id": 277,
+      "diem": "Chim bay",
+      "soDanh": "67"
+    },
+    {
+      "id": 278,
+      "diem": "Chim cánh cụt",
+      "soDanh": "24 - 78"
+    },
+    {
+      "id": 279,
+      "diem": "Chim đậu",
+      "soDanh": "87"
+    },
+    {
+      "id": 280,
+      "diem": "Chim hòa bình",
+      "soDanh": "32"
+    },
+    {
+      "id": 281,
+      "diem": "Chim ỉa vào người",
+      "soDanh": "27"
+    },
+    {
+      "id": 282,
+      "diem": "Chim sẻ đậu",
+      "soDanh": "76"
+    },
+    {
+      "id": 283,
+      "diem": "Chim trời",
+      "soDanh": "87"
+    },
+    {
+      "id": 284,
+      "diem": "Chó cắn chảy máu",
+      "soDanh": "98 - 99"
+    },
+    {
+      "id": 285,
+      "diem": "Chó cắn đuổi",
+      "soDanh": "58 - 38"
+    },
+    {
+      "id": 286,
+      "diem": "Chó cắn",
+      "soDanh": "29 - 92 - 93"
+    },
+    {
+      "id": 287,
+      "diem": "Cho con xe",
+      "soDanh": "69 - 96 - 64"
+    },
+    {
+      "id": 288,
+      "diem": "Cho con",
+      "soDanh": "05 - 75"
+    },
+    {
+      "id": 289,
+      "diem": "Chó đẻ",
+      "soDanh": "51 - 91"
+    },
+    {
+      "id": 290,
+      "diem": "Chó đến nhà",
+      "soDanh": "93 - 98"
+    },
+    {
+      "id": 291,
+      "diem": "Chó đen",
+      "soDanh": "94 - 68"
+    },
+    {
+      "id": 292,
+      "diem": "",
+      "soDanh": "09 - 96"
+    },
+    {
+      "id": 293,
+      "diem": "Chờ đợi",
+      "soDanh": "53 - 64"
+    },
+    {
+      "id": 294,
+      "diem": "Chó đuổi chạy xuống ao",
+      "soDanh": "68"
+    },
+    {
+      "id": 295,
+      "diem": "Chỗ kín đàn ông",
+      "soDanh": "01 - 21"
+    },
+    {
+      "id": 296,
+      "diem": "Cho xe",
+      "soDanh": "29 - 79 - 92"
+    },
+    {
+      "id": 297,
+      "diem": "Chợ",
+      "soDanh": "25 - 52"
+    },
+    {
+      "id": 298,
+      "diem": "Chơi cờ tướng",
+      "soDanh": "13 - 31"
+    },
+    {
+      "id": 299,
+      "diem": "Chơi đá bóng",
+      "soDanh": "89 - 97"
+    },
+    {
+      "id": 300,
+      "diem": "Chơi điện tử",
+      "soDanh": "46 - 48 - 84"
+    },
+    {
+      "id": 301,
+      "diem": "Chơi tú lơ khơ",
+      "soDanh": "03 - 62"
+    },
+    {
+      "id": 302,
+      "diem": "Chơi xuân",
+      "soDanh": "19 - 39"
+    },
+    {
+      "id": 303,
+      "diem": "Chữ số",
+      "soDanh": "22 - 82"
+    },
+    {
+      "id": 304,
+      "diem": "Chú tiểu",
+      "soDanh": "36 - 76"
+    },
+    {
+      "id": 305,
+      "diem": "Chứa bạc",
+      "soDanh": "52 - 57 - 63"
+    },
+    {
+      "id": 306,
+      "diem": "Chùa",
+      "soDanh": "05 - 56 - 26"
+    },
+    {
+      "id": 307,
+      "diem": "Chửi chồng",
+      "soDanh": "07 - 57 - 17"
+    },
+    {
+      "id": 308,
+      "diem": "Chuối",
+      "soDanh": "15 - 05 - 95"
+    },
+    {
+      "id": 309,
+      "diem": "Chuồn chuồn",
+      "soDanh": "26 - 65"
+    },
+    {
+      "id": 310,
+      "diem": "Chuồng xí",
+      "soDanh": "39 - 67"
+    },
+    {
+      "id": 311,
+      "diem": "Chuột bạch",
+      "soDanh": "02 - 20"
+    },
+    {
+      "id": 312,
+      "diem": "Chuột cống",
+      "soDanh": "57 - 45"
+    },
+    {
+      "id": 313,
+      "diem": "Chuột đồng",
+      "soDanh": "15 - 51"
+    },
+    {
+      "id": 314,
+      "diem": "Chuyển nhà xí",
+      "soDanh": "9"
+    },
+    {
+      "id": 315,
+      "diem": "Chuyển nhà",
+      "soDanh": "14 - 16"
+    },
+    {
+      "id": 316,
+      "diem": "Chý mô tơ",
+      "soDanh": "77 - 79"
+    },
+    {
+      "id": 317,
+      "diem": "Cờ bạc",
+      "soDanh": "18656"
+    },
+    {
+      "id": 318,
+      "diem": "Cô liên",
+      "soDanh": "47 - 57"
+    },
+    {
+      "id": 319,
+      "diem": "Có máu",
+      "soDanh": "19 - 69 - 964"
+    },
+    {
+      "id": 320,
+      "diem": "Cơ may",
+      "soDanh": "79 - 38"
+    },
+    {
+      "id": 321,
+      "diem": "Cô tiên",
+      "soDanh": "17 - 35 - 19 - 91"
+    },
+    {
+      "id": 322,
+      "diem": "Cò trắng",
+      "soDanh": "84 - 00"
+    },
+    {
+      "id": 323,
+      "diem": "Cò xanh",
+      "soDanh": "02 - 73"
+    },
+    {
+      "id": 324,
+      "diem": "Cối giã cua",
+      "soDanh": "92 - 87"
+    },
+    {
+      "id": 325,
+      "diem": "Cối giã giò",
+      "soDanh": "86 - 48"
+    },
+    {
+      "id": 326,
+      "diem": "Con bò",
+      "soDanh": "88"
+    },
+    {
+      "id": 327,
+      "diem": "Con cá con",
+      "soDanh": "24 - 26 - 72"
+    },
+    {
+      "id": 328,
+      "diem": "Con cáo",
+      "soDanh": "48 - 28"
+    },
+    {
+      "id": 329,
+      "diem": "Con chai",
+      "soDanh": "68"
+    },
+    {
+      "id": 330,
+      "diem": "Con chấy",
+      "soDanh": "92 - 95 - 98"
+    },
+    {
+      "id": 331,
+      "diem": "Con chim",
+      "soDanh": "56 - 80"
+    },
+    {
+      "id": 332,
+      "diem": "Con chó con",
+      "soDanh": "48 - 49"
+    },
+    {
+      "id": 333,
+      "diem": "Con chó nhật",
+      "soDanh": "76"
+    },
+    {
+      "id": 334,
+      "diem": "Con chó",
+      "soDanh": "29 - 59 - 95"
+    },
+    {
+      "id": 335,
+      "diem": "Con chuột nhà",
+      "soDanh": "17 - 49"
+    },
+    {
+      "id": 336,
+      "diem": "Con chuột",
+      "soDanh": "02 - 20 - 55"
+    },
+    {
+      "id": 337,
+      "diem": "Con cóc",
+      "soDanh": "4"
+    },
+    {
+      "id": 338,
+      "diem": "Con công",
+      "soDanh": "98 - 67"
+    },
+    {
+      "id": 339,
+      "diem": "Con cua",
+      "soDanh": "67 - 89"
+    },
+    {
+      "id": 340,
+      "diem": "Con dê",
+      "soDanh": "15 - 35 - 75"
+    },
+    {
+      "id": 341,
+      "diem": "Con dệp",
+      "soDanh": "82 - 85"
+    },
+    {
+      "id": 342,
+      "diem": "Con đĩ",
+      "soDanh": "01 - 21 - 26"
+    },
+    {
+      "id": 343,
+      "diem": "Con đỉa",
+      "soDanh": "43"
+    },
+    {
+      "id": 344,
+      "diem": "Con điên",
+      "soDanh": "52 - 08 - 89"
+    },
+    {
+      "id": 345,
+      "diem": "Con ếch",
+      "soDanh": "28 - 43"
+    },
+    {
+      "id": 346,
+      "diem": "Con gái mình chết",
+      "soDanh": "35"
+    },
+    {
+      "id": 347,
+      "diem": "Con hạc",
+      "soDanh": "17 - 57"
+    },
+    {
+      "id": 348,
+      "diem": "Con hổ",
+      "soDanh": "06 - 60 - 30 - 46"
+    },
+    {
+      "id": 349,
+      "diem": "Con khỉ",
+      "soDanh": "72 - 27"
+    },
+    {
+      "id": 350,
+      "diem": "Con lợn",
+      "soDanh": "76"
+    },
+    {
+      "id": 351,
+      "diem": "Con lươn",
+      "soDanh": "56 - 90"
+    },
+    {
+      "id": 352,
+      "diem": "Con mèo",
+      "soDanh": "18 - 58 - 89"
+    },
+    {
+      "id": 353,
+      "diem": "Con mình chết",
+      "soDanh": "35"
+    },
+    {
+      "id": 354,
+      "diem": "Con mọt",
+      "soDanh": "05 - 39"
+    },
+    {
+      "id": 355,
+      "diem": "Con muỗi",
+      "soDanh": "46"
+    },
+    {
+      "id": 356,
+      "diem": "Con nai",
+      "soDanh": "34 - 48"
+    },
+    {
+      "id": 357,
+      "diem": "Con ngỗng",
+      "soDanh": "08 - 83"
+    },
+    {
+      "id": 358,
+      "diem": "Con ngựa",
+      "soDanh": "12 - 52 - 72"
+    },
+    {
+      "id": 359,
+      "diem": "Con nhái",
+      "soDanh": "26, 62"
+    },
+    {
+      "id": 360,
+      "diem": "Con nhện",
+      "soDanh": "33 - 73"
+    },
+    {
+      "id": 361,
+      "diem": "Con ở",
+      "soDanh": "25, 65, 76"
+    },
+    {
+      "id": 362,
+      "diem": "Con ốc nhồi",
+      "soDanh": "67"
+    },
+    {
+      "id": 363,
+      "diem": "Con ốc",
+      "soDanh": "65"
+    },
+    {
+      "id": 364,
+      "diem": "Con quạ",
+      "soDanh": "25 - 62 - 65"
+    },
+    {
+      "id": 365,
+      "diem": "Con rái cá",
+      "soDanh": "48 - 79"
+    },
+    {
+      "id": 366,
+      "diem": "Con rắn",
+      "soDanh": "32 - 42 - 72"
+    },
+    {
+      "id": 367,
+      "diem": "Con rệp",
+      "soDanh": "98"
+    },
+    {
+      "id": 368,
+      "diem": "Con rết",
+      "soDanh": "94"
+    },
+    {
+      "id": 369,
+      "diem": "Con rồng",
+      "soDanh": "10 - 50 - 90"
+    },
+    {
+      "id": 370,
+      "diem": "Con ruồi",
+      "soDanh": "35"
+    },
+    {
+      "id": 371,
+      "diem": "Con sò",
+      "soDanh": "48"
+    },
+    {
+      "id": 372,
+      "diem": "Con sóc",
+      "soDanh": "69, 79"
+    },
+    {
+      "id": 373,
+      "diem": "Con tàu",
+      "soDanh": "42 - 82"
+    },
+    {
+      "id": 374,
+      "diem": "Con thỏ",
+      "soDanh": "08 - 48 - 69"
+    },
+    {
+      "id": 375,
+      "diem": "Con thuyền",
+      "soDanh": "33 - 38"
+    },
+    {
+      "id": 376,
+      "diem": "Con tim",
+      "soDanh": "11 - 31 - 51 - 71"
+    },
+    {
+      "id": 377,
+      "diem": "Con tin",
+      "soDanh": "85 - 97"
+    },
+    {
+      "id": 378,
+      "diem": "Con tôm",
+      "soDanh": "58"
+    },
+    {
+      "id": 379,
+      "diem": "Con trai cho vàng",
+      "soDanh": "43"
+    },
+    {
+      "id": 380,
+      "diem": "Con trai đầu lòng",
+      "soDanh": "79"
+    },
+    {
+      "id": 381,
+      "diem": "Con trăn đầy người",
+      "soDanh": "86 - 87"
+    },
+    {
+      "id": 382,
+      "diem": "Con trăn",
+      "soDanh": "03 - 63"
+    },
+    {
+      "id": 383,
+      "diem": "Con trâu",
+      "soDanh": "03 - 63 - 86"
+    },
+    {
+      "id": 384,
+      "diem": "Con trĩ",
+      "soDanh": "01 - 21 - 61 - 26"
+    },
+    {
+      "id": 385,
+      "diem": "Con vẹm",
+      "soDanh": "61 - 62"
+    },
+    {
+      "id": 386,
+      "diem": "Con vịt",
+      "soDanh": "49"
+    },
+    {
+      "id": 387,
+      "diem": "Con voi",
+      "soDanh": "13 - 53"
+    },
+    {
+      "id": 388,
+      "diem": "Công an",
+      "soDanh": "14 - 34 - 54"
+    },
+    {
+      "id": 389,
+      "diem": "Cổng chào",
+      "soDanh": "20 - 40 - 80"
+    },
+    {
+      "id": 390,
+      "diem": "Cống rãnh",
+      "soDanh": "04 - 44"
+    },
+    {
+      "id": 391,
+      "diem": "Cổng trào",
+      "soDanh": "40 - 80 - 20"
+    },
+    {
+      "id": 392,
+      "diem": "Cột điện",
+      "soDanh": "11"
+    },
+    {
+      "id": 393,
+      "diem": "Củ cà rốt",
+      "soDanh": "01 - 51"
+    },
+    {
+      "id": 394,
+      "diem": "Củ khoai",
+      "soDanh": "75 - 95"
+    },
+    {
+      "id": 395,
+      "diem": "Củ su hào",
+      "soDanh": "00 - 01 - 06"
+    },
+    {
+      "id": 396,
+      "diem": "Cua bể",
+      "soDanh": "05 - 46 - 65"
+    },
+    {
+      "id": 397,
+      "diem": "Của đàn bà",
+      "soDanh": "27 - 87 - 28"
+    },
+    {
+      "id": 398,
+      "diem": "Cúng chay",
+      "soDanh": "37 - 71"
+    },
+    {
+      "id": 399,
+      "diem": "Cúng người chết",
+      "soDanh": "74"
+    },
+    {
+      "id": 400,
+      "diem": "Cúng tổ tiên",
+      "soDanh": "40 - 46"
+    },
+    {
+      "id": 401,
+      "diem": "",
+      "soDanh": "68 - 69"
+    },
+    {
+      "id": 402,
+      "diem": "Cuốc xẻng",
+      "soDanh": "65 - 54"
+    },
+    {
+      "id": 403,
+      "diem": "Cưỡi ngựa",
+      "soDanh": "41"
+    },
+    {
+      "id": 404,
+      "diem": "Cưới vợ",
+      "soDanh": "70 - 65 - 69"
+    },
+    {
+      "id": 405,
+      "diem": "Cười với bản thân",
+      "soDanh": "21 - 61"
+    },
+    {
+      "id": 406,
+      "diem": "Cười với nam",
+      "soDanh": "09 - 59"
+    },
+    {
+      "id": 407,
+      "diem": "Cười với phụ nữ",
+      "soDanh": "07 - 09"
+    },
+    {
+      "id": 408,
+      "diem": "Cưỡng ép",
+      "soDanh": "03 - 38 - 83"
+    },
+    {
+      "id": 409,
+      "diem": "Cứt bám lên mặt",
+      "soDanh": "03 - 07"
+    },
+    {
+      "id": 410,
+      "diem": "Cứt bám ngón tay",
+      "soDanh": "00 - 05"
+    },
+    {
+      "id": 411,
+      "diem": "Cứt bê bết đi mưa",
+      "soDanh": "14 - 41"
+    },
+    {
+      "id": 412,
+      "diem": "Cứt đầy ống quần phải thay",
+      "soDanh": "91 - 92"
+    },
+    {
+      "id": 413,
+      "diem": "Cứt vứt vào nhà",
+      "soDanh": "63"
+    },
+    {
+      "id": 414,
+      "diem": "Cứt",
+      "soDanh": "63 - 13"
+    },
+    {
+      "id": 415,
+      "diem": "Cứu đàn ông khỏi chết đuối",
+      "soDanh": "54"
+    },
+    {
+      "id": 416,
+      "diem": "Cứu người rơi xuống ao",
+      "soDanh": "07 - 16 - 18"
+    },
+    {
+      "id": 417,
+      "diem": "Đá bóng",
+      "soDanh": "00 - 09 - 08 - 05"
+    },
+    {
+      "id": 418,
+      "diem": "Đá lửa",
+      "soDanh": "06 - 60"
+    },
+    {
+      "id": 419,
+      "diem": "Đái dầm",
+      "soDanh": "20 - 60 - 70"
+    },
+    {
+      "id": 420,
+      "diem": "Đám cưới",
+      "soDanh": "07 - 09 - 75"
+    },
+    {
+      "id": 421,
+      "diem": "Đám ma",
+      "soDanh": "34 - 35 - 35"
+    },
+    {
+      "id": 422,
+      "diem": "Đắm thuyền trong ao",
+      "soDanh": "38 - 54"
+    },
+    {
+      "id": 423,
+      "diem": "Đàn bà chửa",
+      "soDanh": "10 - 82"
+    },
+    {
+      "id": 424,
+      "diem": "Đàn bà ghen",
+      "soDanh": "09 - 23"
+    },
+    {
+      "id": 425,
+      "diem": "Đàn bà khỏa thân",
+      "soDanh": "03 - 32"
+    },
+    {
+      "id": 426,
+      "diem": "Đàn chó",
+      "soDanh": "36 - 63"
+    },
+    {
+      "id": 427,
+      "diem": "Đàn kiến",
+      "soDanh": "29"
+    },
+    {
+      "id": 428,
+      "diem": "Đàn lợn",
+      "soDanh": "38 - 49"
+    },
+    {
+      "id": 429,
+      "diem": "Đàn ông khỏa thân",
+      "soDanh": "15 - 51"
+    },
+    {
+      "id": 430,
+      "diem": "Đàn ông ăn mày",
+      "soDanh": "04 - 54"
+    },
+    {
+      "id": 431,
+      "diem": "Đàn ông chết",
+      "soDanh": "06 - 26"
+    },
+    {
+      "id": 432,
+      "diem": "Đàn ông ghen",
+      "soDanh": "09 - 12 - 31"
+    },
+    {
+      "id": 433,
+      "diem": "Đàn trâu",
+      "soDanh": "31 - 51"
+    },
+    {
+      "id": 434,
+      "diem": "Đánh chết người",
+      "soDanh": "45 - 85"
+    },
+    {
+      "id": 435,
+      "diem": "Đánh chết rắn",
+      "soDanh": "25"
+    },
+    {
+      "id": 436,
+      "diem": "Đánh cuộc",
+      "soDanh": "27 - 72"
+    },
+    {
+      "id": 437,
+      "diem": "Đánh cướp",
+      "soDanh": "08 - 84"
+    },
+    {
+      "id": 438,
+      "diem": "Đánh đĩ",
+      "soDanh": "57 - 75"
+    },
+    {
+      "id": 439,
+      "diem": "Đánh ghen",
+      "soDanh": "49 - 87"
+    },
+    {
+      "id": 440,
+      "diem": "Đánh nhau bằng kiếm",
+      "soDanh": "60 - 61"
+    },
+    {
+      "id": 441,
+      "diem": "Đánh nhau có vũ khí",
+      "soDanh": "3"
+    },
+    {
+      "id": 442,
+      "diem": "Đánh nhau đổ máu",
+      "soDanh": "00 - 31 - 34 - 75"
+    },
+    {
+      "id": 443,
+      "diem": "Đánh nhau ném lựu đạn",
+      "soDanh": "67"
+    },
+    {
+      "id": 444,
+      "diem": "Đánh nhau",
+      "soDanh": "03 - 07 - 59"
+    },
+    {
+      "id": 445,
+      "diem": "Đánh răng",
+      "soDanh": "67 - 47 - 79"
+    },
+    {
+      "id": 446,
+      "diem": "Đánh vợ",
+      "soDanh": "52 - 51 - 53"
+    },
+    {
+      "id": 447,
+      "diem": "Đào đất",
+      "soDanh": "56"
+    },
+    {
+      "id": 448,
+      "diem": "Dao găm",
+      "soDanh": "07 - 17"
+    },
+    {
+      "id": 449,
+      "diem": "Đào giếng",
+      "soDanh": "65"
+    },
+    {
+      "id": 450,
+      "diem": "Đào móng nhà",
+      "soDanh": "47 - 74"
+    },
+    {
+      "id": 451,
+      "diem": "Dao phay",
+      "soDanh": "85"
+    },
+    {
+      "id": 452,
+      "diem": "Dao xây",
+      "soDanh": "16 - 61"
+    },
+    {
+      "id": 453,
+      "diem": "Dắt bò",
+      "soDanh": "02, 28"
+    },
+    {
+      "id": 454,
+      "diem": "Dắt trâu",
+      "soDanh": "29"
+    },
+    {
+      "id": 455,
+      "diem": "Dầu hỏa",
+      "soDanh": "17 - 71 - 16 - 61"
+    },
+    {
+      "id": 456,
+      "diem": "Đầu nhiều chấy",
+      "soDanh": "78"
+    },
+    {
+      "id": 457,
+      "diem": "Đầu trâu",
+      "soDanh": "51 - 71 - 91"
+    },
+    {
+      "id": 458,
+      "diem": "Đầu vú",
+      "soDanh": "38 - 39 - 84"
+    },
+    {
+      "id": 459,
+      "diem": "Dây chuyền vàng",
+      "soDanh": "08 - 80"
+    },
+    {
+      "id": 460,
+      "diem": "Dậy võ",
+      "soDanh": "56 - 06"
+    },
+    {
+      "id": 461,
+      "diem": "Dây xích",
+      "soDanh": "04 - 46 - 61"
+    },
+    {
+      "id": 462,
+      "diem": "Đe dọa",
+      "soDanh": "37 - 73 - 78"
+    },
+    {
+      "id": 463,
+      "diem": "Đẻ ra cá",
+      "soDanh": "00 - 01 - 99 - 94"
+    },
+    {
+      "id": 464,
+      "diem": "Đẻ ra mèo",
+      "soDanh": "01 - 23 - 62"
+    },
+    {
+      "id": 465,
+      "diem": "Dê",
+      "soDanh": "56"
+    },
+    {
+      "id": 466,
+      "diem": "Đền cổ",
+      "soDanh": "46 - 66"
+    },
+    {
+      "id": 467,
+      "diem": "Đèn ông sao",
+      "soDanh": "44 - 55"
+    },
+    {
+      "id": 468,
+      "diem": "Đèn thần",
+      "soDanh": "07 - 57 - 75"
+    },
+    {
+      "id": 469,
+      "diem": "Đi bộ đội",
+      "soDanh": "15 - 53"
+    },
+    {
+      "id": 470,
+      "diem": "Đi câu không được cá",
+      "soDanh": "23 - 24 - 12"
+    },
+    {
+      "id": 471,
+      "diem": "Đi câu",
+      "soDanh": "64 - 74 - 24"
+    },
+    {
+      "id": 472,
+      "diem": "Đi chơi xuân",
+      "soDanh": "19 - 39"
+    },
+    {
+      "id": 473,
+      "diem": "Đi đái dắt",
+      "soDanh": "98 - 99"
+    },
+    {
+      "id": 474,
+      "diem": "Đi đánh được cá",
+      "soDanh": "76 - 87 - 78"
+    },
+    {
+      "id": 475,
+      "diem": "Đi đổ cứt",
+      "soDanh": "15 - 16 - 61"
+    },
+    {
+      "id": 476,
+      "diem": "Đi đò dọc",
+      "soDanh": "73 - 37 - 32"
+    },
+    {
+      "id": 477,
+      "diem": "Đi đò",
+      "soDanh": "73 - 04 - 44"
+    },
+    {
+      "id": 478,
+      "diem": "Đi du lịch",
+      "soDanh": "87"
+    },
+    {
+      "id": 479,
+      "diem": "Đi học",
+      "soDanh": "17"
+    },
+    {
+      "id": 480,
+      "diem": "Đi ỉ chảy",
+      "soDanh": "01 - 06"
+    },
+    {
+      "id": 481,
+      "diem": "Đi ỉ gặp người",
+      "soDanh": "67 - 76"
+    },
+    {
+      "id": 482,
+      "diem": "Đi ỉa chảy",
+      "soDanh": "01, 06"
+    },
+    {
+      "id": 483,
+      "diem": "Đi ỉa đông người",
+      "soDanh": "08 - 09"
+    },
+    {
+      "id": 484,
+      "diem": "Đi ỉa gặp người",
+      "soDanh": "67, 76"
+    },
+    {
+      "id": 485,
+      "diem": "Đi ỉa",
+      "soDanh": "86 - 98"
+    },
+    {
+      "id": 486,
+      "diem": "Đi làm",
+      "soDanh": "01 - 21 - 26"
+    },
+    {
+      "id": 487,
+      "diem": "Đi lễ",
+      "soDanh": "12 - 21"
+    },
+    {
+      "id": 488,
+      "diem": "Đi mua giầy",
+      "soDanh": "56 - 06"
+    },
+    {
+      "id": 489,
+      "diem": "Đi phà qua sông",
+      "soDanh": "17 - 18"
+    },
+    {
+      "id": 490,
+      "diem": "Đi tắm",
+      "soDanh": "39 - 93 - 83"
+    },
+    {
+      "id": 491,
+      "diem": "Đi tàu",
+      "soDanh": "39 - 87 - 78"
+    },
+    {
+      "id": 492,
+      "diem": "Đi thi",
+      "soDanh": "26"
+    },
+    {
+      "id": 493,
+      "diem": "Đi thuyền",
+      "soDanh": "23 - 59 - 93 - 39"
+    },
+    {
+      "id": 494,
+      "diem": "Đi trên sông",
+      "soDanh": "15 - 05"
+    },
+    {
+      "id": 495,
+      "diem": "Đi vắng",
+      "soDanh": "05 - 20 - 25"
+    },
+    {
+      "id": 496,
+      "diem": "Đi về gặp mưa",
+      "soDanh": "08 - 70 - 07"
+    },
+    {
+      "id": 497,
+      "diem": "Đi xa đánh nhau",
+      "soDanh": "93 - 39"
+    },
+    {
+      "id": 498,
+      "diem": "Đi xa ngoại tình",
+      "soDanh": "23 - 59"
+    },
+    {
+      "id": 499,
+      "diem": "Đi xe cúp",
+      "soDanh": "85 - 57"
+    },
+    {
+      "id": 500,
+      "diem": "Đỉa bám đầy người",
+      "soDanh": "28 - 11"
+    },
+    {
+      "id": 501,
+      "diem": "Đỉa bán vào chân",
+      "soDanh": "29"
+    },
+    {
+      "id": 502,
+      "diem": "Đỉa cắn người",
+      "soDanh": "58"
+    },
+    {
+      "id": 503,
+      "diem": "Địa ngục",
+      "soDanh": "12 - 63"
+    },
+    {
+      "id": 504,
+      "diem": "Diều hâu",
+      "soDanh": "68 - 67"
+    },
+    {
+      "id": 505,
+      "diem": "Đình chùa",
+      "soDanh": "01 - 40 - 80"
+    },
+    {
+      "id": 506,
+      "diem": "Đôi bít tất",
+      "soDanh": "96 - 39 - 83"
+    },
+    {
+      "id": 507,
+      "diem": "Đôi chim bồ câu",
+      "soDanh": "02 - 22"
+    },
+    {
+      "id": 508,
+      "diem": "Đôi dép",
+      "soDanh": "33 - 81"
+    },
+    {
+      "id": 509,
+      "diem": "Đôi giày ba ta",
+      "soDanh": "02 - 03"
+    },
+    {
+      "id": 510,
+      "diem": "Đòi nợ",
+      "soDanh": "53 - 35"
+    },
+    {
+      "id": 511,
+      "diem": "Đồi núi",
+      "soDanh": "68 - 86 - 81"
+    },
+    {
+      "id": 512,
+      "diem": "Đôi vẹt",
+      "soDanh": "83 - 87"
+    },
+    {
+      "id": 513,
+      "diem": "Đói",
+      "soDanh": "13 - 93 - 59"
+    },
+    {
+      "id": 514,
+      "diem": "Đom đóm",
+      "soDanh": "19 - 59"
+    },
+    {
+      "id": 515,
+      "diem": "Dọn nhà vệ sinh",
+      "soDanh": "26 - 62"
+    },
+    {
+      "id": 516,
+      "diem": "Dông bão",
+      "soDanh": "8"
+    },
+    {
+      "id": 517,
+      "diem": "Đồng hồ",
+      "soDanh": "95 - 58"
+    },
+    {
+      "id": 518,
+      "diem": "Đống lửa",
+      "soDanh": "08 - 48"
+    },
+    {
+      "id": 519,
+      "diem": "Đống rơm",
+      "soDanh": "25 - 50 - 27"
+    },
+    {
+      "id": 520,
+      "diem": "Đóng thuyền",
+      "soDanh": "04 - 44 - 71 - 54"
+    },
+    {
+      "id": 521,
+      "diem": "Động trạm của quý của đàn bà",
+      "soDanh": "65 - 63"
+    },
+    {
+      "id": 522,
+      "diem": "Đốt lò sưởi",
+      "soDanh": "03 - 37"
+    },
+    {
+      "id": 523,
+      "diem": "Đưa tang",
+      "soDanh": "27 - 72"
+    },
+    {
+      "id": 524,
+      "diem": "Dùng lửa đốt súc vật",
+      "soDanh": "48"
+    },
+    {
+      "id": 525,
+      "diem": "Đứng trên mái nhà",
+      "soDanh": "46 - 64"
+    },
+    {
+      "id": 526,
+      "diem": "Được bạc",
+      "soDanh": "82"
+    },
+    {
+      "id": 527,
+      "diem": "Được của",
+      "soDanh": "53 - 78 - 80"
+    },
+    {
+      "id": 528,
+      "diem": "Được thưởng",
+      "soDanh": "82 - 32"
+    },
+    {
+      "id": 529,
+      "diem": "Được tiền chia hai",
+      "soDanh": "05 - 50"
+    },
+    {
+      "id": 530,
+      "diem": "Được tiền",
+      "soDanh": "08 - 78"
+    },
+    {
+      "id": 531,
+      "diem": "Được vàng",
+      "soDanh": "01 - 10 - 15 - 75"
+    },
+    {
+      "id": 532,
+      "diem": "Đuổi bắt",
+      "soDanh": "15 - 57 - 72"
+    },
+    {
+      "id": 533,
+      "diem": "Dương vật",
+      "soDanh": "21 - 12 - 51"
+    },
+    {
+      "id": 534,
+      "diem": "Ếch",
+      "soDanh": "86"
+    },
+    {
+      "id": 535,
+      "diem": "Et xăng",
+      "soDanh": "64 - 74"
+    },
+    {
+      "id": 536,
+      "diem": "Gà con",
+      "soDanh": "07 - 08"
+    },
+    {
+      "id": 537,
+      "diem": "Gà thịt rồi",
+      "soDanh": "28 - 36"
+    },
+    {
+      "id": 538,
+      "diem": "Gà trống",
+      "soDanh": "55 - 57"
+    },
+    {
+      "id": 539,
+      "diem": "Gái đẹp",
+      "soDanh": "38 - 83"
+    },
+    {
+      "id": 540,
+      "diem": "Gặp ăn xin",
+      "soDanh": "24 - 76 - 86"
+    },
+    {
+      "id": 541,
+      "diem": "Gặp cây đa",
+      "soDanh": "09 - 05 - 12"
+    },
+    {
+      "id": 542,
+      "diem": "Gặp cụ già đạo đức",
+      "soDanh": "41 - 64 - 62"
+    },
+    {
+      "id": 543,
+      "diem": "Gặp đàn bà",
+      "soDanh": "28 - 87"
+    },
+    {
+      "id": 544,
+      "diem": "Gặp đàn ông",
+      "soDanh": "26 - 27"
+    },
+    {
+      "id": 545,
+      "diem": "Gặp gà",
+      "soDanh": "33 - 45 - 57"
+    },
+    {
+      "id": 546,
+      "diem": "Gặp lợn",
+      "soDanh": "59 - 62 - 27"
+    },
+    {
+      "id": 547,
+      "diem": "Gặp người nhà",
+      "soDanh": "70 - 75 - 78"
+    },
+    {
+      "id": 548,
+      "diem": "Gặp người yêu",
+      "soDanh": "46 - 47 - 87"
+    },
+    {
+      "id": 549,
+      "diem": "Gặp phà",
+      "soDanh": "28 - 52 - 93"
+    },
+    {
+      "id": 550,
+      "diem": "Gặp tiền",
+      "soDanh": "01 - 76 - 67"
+    },
+    {
+      "id": 551,
+      "diem": "Giá treo cổ",
+      "soDanh": "84 - 68"
+    },
+    {
+      "id": 552,
+      "diem": "Giải thoát",
+      "soDanh": "84 - 85"
+    },
+    {
+      "id": 553,
+      "diem": "Giáo viên",
+      "soDanh": "52 - 57"
+    },
+    {
+      "id": 554,
+      "diem": "Giấy tờ ướt",
+      "soDanh": "26 - 66"
+    },
+    {
+      "id": 555,
+      "diem": "Giếng nước",
+      "soDanh": "29 - 92"
+    },
+    {
+      "id": 556,
+      "diem": "Gieo trồng",
+      "soDanh": "57 - 46"
+    },
+    {
+      "id": 557,
+      "diem": "Giết lợn",
+      "soDanh": "82 - 32"
+    },
+    {
+      "id": 558,
+      "diem": "Giết người",
+      "soDanh": "83 - 47"
+    },
+    {
+      "id": 559,
+      "diem": "Giò chả",
+      "soDanh": "22 - 43"
+    },
+    {
+      "id": 560,
+      "diem": "Giò",
+      "soDanh": "78 - 84 - 89"
+    },
+    {
+      "id": 561,
+      "diem": "Giông bão",
+      "soDanh": "08 - 58 - 53"
+    },
+    {
+      "id": 562,
+      "diem": "Giun",
+      "soDanh": "11 - 94"
+    },
+    {
+      "id": 563,
+      "diem": "Hà mã",
+      "soDanh": "56"
+    },
+    {
+      "id": 564,
+      "diem": "Hai anh em bế nhau",
+      "soDanh": "73"
+    },
+    {
+      "id": 565,
+      "diem": "Hai bàn thờ",
+      "soDanh": "46 - 96 - 91"
+    },
+    {
+      "id": 566,
+      "diem": "Hai bố con",
+      "soDanh": "32 - 82 - 98"
+    },
+    {
+      "id": 567,
+      "diem": "Hai chị em gái đánh nhau",
+      "soDanh": "45 - 57"
+    },
+    {
+      "id": 568,
+      "diem": "Hai con chó",
+      "soDanh": "96 - 94"
+    },
+    {
+      "id": 569,
+      "diem": "Hai con mèo cắn nhau",
+      "soDanh": "86"
+    },
+    {
+      "id": 570,
+      "diem": "Hai lần thấy mẹ",
+      "soDanh": "62 - 83 - 68 - 80"
+    },
+    {
+      "id": 571,
+      "diem": "Hai người đàn ông chết đuối",
+      "soDanh": "04 - 06"
+    },
+    {
+      "id": 572,
+      "diem": "Hai người khiêng quan tài",
+      "soDanh": "83 - 87"
+    },
+    {
+      "id": 573,
+      "diem": "Hai quan tài",
+      "soDanh": "26 - 16 - 36"
+    },
+    {
+      "id": 574,
+      "diem": "Hai thằng ăn cắp",
+      "soDanh": "26 - 62"
+    },
+    {
+      "id": 575,
+      "diem": "Hãm hại",
+      "soDanh": "84"
+    },
+    {
+      "id": 576,
+      "diem": "Hầm tối tăm",
+      "soDanh": "87 - 82 - 87"
+    },
+    {
+      "id": 577,
+      "diem": "Hàn bánh xe",
+      "soDanh": "41 - 46"
+    },
+    {
+      "id": 578,
+      "diem": "Hành kinh",
+      "soDanh": "67 - 68"
+    },
+    {
+      "id": 579,
+      "diem": "Hát văn",
+      "soDanh": "25 - 50 - 55"
+    },
+    {
+      "id": 580,
+      "diem": "Heo rừng",
+      "soDanh": "78"
+    },
+    {
+      "id": 581,
+      "diem": "Hiện vật",
+      "soDanh": "65 - 56"
+    },
+    {
+      "id": 582,
+      "diem": "Hiếp dâm",
+      "soDanh": "92 - 84"
+    },
+    {
+      "id": 583,
+      "diem": "Hổ",
+      "soDanh": "78"
+    },
+    {
+      "id": 584,
+      "diem": "Hoa sen",
+      "soDanh": "45"
+    },
+    {
+      "id": 585,
+      "diem": "Hoa súng",
+      "soDanh": "10 - 20"
+    },
+    {
+      "id": 586,
+      "diem": "Hoàng tử",
+      "soDanh": "83 - 38"
+    },
+    {
+      "id": 587,
+      "diem": "Học trò",
+      "soDanh": "27 - 37"
+    },
+    {
+      "id": 588,
+      "diem": "Hòm đạn",
+      "soDanh": "90 - 95 - 59"
+    },
+    {
+      "id": 589,
+      "diem": "Hồn người chết",
+      "soDanh": "04 - 40 - 80 - 84"
+    },
+    {
+      "id": 590,
+      "diem": "Hôn nhau",
+      "soDanh": "00 - 84"
+    },
+    {
+      "id": 591,
+      "diem": "Hồn quý",
+      "soDanh": "75"
+    },
+    {
+      "id": 592,
+      "diem": "Hùm beo",
+      "soDanh": "29 - 40"
+    },
+    {
+      "id": 593,
+      "diem": "Hương cháy",
+      "soDanh": "07 - 20 - 70 - 57"
+    },
+    {
+      "id": 594,
+      "diem": "Hương đèn",
+      "soDanh": "06 - 31 - 63 - 82"
+    },
+    {
+      "id": 595,
+      "diem": "Ỉa bậy chùi đít không sạch",
+      "soDanh": "86 - 98 - 49 - 39"
+    },
+    {
+      "id": 596,
+      "diem": "Kè cầu ao",
+      "soDanh": "66 - 61 - 70"
+    },
+    {
+      "id": 597,
+      "diem": "Kẻ chăn trâu",
+      "soDanh": "13 - 31 - 60"
+    },
+    {
+      "id": 598,
+      "diem": "Kẻ cướp",
+      "soDanh": "03 - 83"
+    },
+    {
+      "id": 599,
+      "diem": "Kẻ trộm cậy cửa",
+      "soDanh": "79 - 20"
+    },
+    {
+      "id": 600,
+      "diem": "Kéo thuyền trên sông",
+      "soDanh": "06 - 60"
+    },
+    {
+      "id": 601,
+      "diem": "Kéo thuyền",
+      "soDanh": "38 - 83 - 88"
+    },
+    {
+      "id": 602,
+      "diem": "Kêu cứu",
+      "soDanh": "35 - 65"
+    },
+    {
+      "id": 603,
+      "diem": "Khách hàng",
+      "soDanh": "30 - 89"
+    },
+    {
+      "id": 604,
+      "diem": "Khách sạn",
+      "soDanh": "32 - 47"
+    },
+    {
+      "id": 605,
+      "diem": "Khai thác vàng",
+      "soDanh": "12 - 21 - 10 - 01"
+    },
+    {
+      "id": 606,
+      "diem": "Khâm phục",
+      "soDanh": "37 - 73"
+    },
+    {
+      "id": 607,
+      "diem": "Khăn mặt",
+      "soDanh": "73 - 96"
+    },
+    {
+      "id": 608,
+      "diem": "Khăn màu hồng",
+      "soDanh": "04 - 24"
+    },
+    {
+      "id": 609,
+      "diem": "Khăn nhung",
+      "soDanh": "78 - 87"
+    },
+    {
+      "id": 610,
+      "diem": "Khẩu pháo",
+      "soDanh": "70 - 72"
+    },
+    {
+      "id": 611,
+      "diem": "Khâu vá",
+      "soDanh": "36"
+    },
+    {
+      "id": 612,
+      "diem": "Khí giới",
+      "soDanh": "07 - 70"
+    },
+    {
+      "id": 613,
+      "diem": "Khỉ",
+      "soDanh": "56"
+    },
+    {
+      "id": 614,
+      "diem": "Khiêu vũ",
+      "soDanh": "42 - 47 - 43"
+    },
+    {
+      "id": 615,
+      "diem": "Khó đẻ",
+      "soDanh": "19 - 91 - 96"
+    },
+    {
+      "id": 616,
+      "diem": "Khỏa thân",
+      "soDanh": "18 - 81 - 48 - 48"
+    },
+    {
+      "id": 617,
+      "diem": "Khoai lang",
+      "soDanh": "51 - 52 - 95"
+    },
+    {
+      "id": 618,
+      "diem": "Khoang tầu",
+      "soDanh": "41 - 71"
+    },
+    {
+      "id": 619,
+      "diem": "Khoe",
+      "soDanh": "56 - 59"
+    },
+    {
+      "id": 620,
+      "diem": "Kì lân",
+      "soDanh": "65 - 78"
+    },
+    {
+      "id": 621,
+      "diem": "Kiếm",
+      "soDanh": "96"
+    },
+    {
+      "id": 622,
+      "diem": "Kim chỉ",
+      "soDanh": "11 - 94 - 15"
+    },
+    {
+      "id": 623,
+      "diem": "Lá rụng",
+      "soDanh": "51 - 59"
+    },
+    {
+      "id": 624,
+      "diem": "Lá thư",
+      "soDanh": "75 - 76 - 83"
+    },
+    {
+      "id": 625,
+      "diem": "Lá vàng",
+      "soDanh": "86 - 48"
+    },
+    {
+      "id": 626,
+      "diem": "Lái buôn",
+      "soDanh": "32"
+    },
+    {
+      "id": 627,
+      "diem": "Làm cổng",
+      "soDanh": "56"
+    },
+    {
+      "id": 628,
+      "diem": "Làm nhà hộ bạn",
+      "soDanh": "07 - 19"
+    },
+    {
+      "id": 629,
+      "diem": "Làm tình",
+      "soDanh": "19 - 69"
+    },
+    {
+      "id": 630,
+      "diem": "Lâu đài bị đốt",
+      "soDanh": "03 - 87"
+    },
+    {
+      "id": 631,
+      "diem": "Lâu đài",
+      "soDanh": "82 - 87"
+    },
+    {
+      "id": 632,
+      "diem": "Lấy đàn bà điên",
+      "soDanh": "83"
+    },
+    {
+      "id": 633,
+      "diem": "Lấy nước trong bể",
+      "soDanh": "02 - 07"
+    },
+    {
+      "id": 634,
+      "diem": "Lịch bắt cá",
+      "soDanh": "21 - 32"
+    },
+    {
+      "id": 635,
+      "diem": "Lò sưởi tắt",
+      "soDanh": "42 - 47"
+    },
+    {
+      "id": 636,
+      "diem": "Lọc dầu",
+      "soDanh": "37 - 57 - 97"
+    },
+    {
+      "id": 637,
+      "diem": "Lội ao vớt bèo",
+      "soDanh": "08 - 18"
+    },
+    {
+      "id": 638,
+      "diem": "Lội bì bõm",
+      "soDanh": "04 - 09 - 32"
+    },
+    {
+      "id": 639,
+      "diem": "Lội ruộng",
+      "soDanh": "09 - 90 - 99"
+    },
+    {
+      "id": 640,
+      "diem": "Lợn cắn",
+      "soDanh": "17 - 71 - 61"
+    },
+    {
+      "id": 641,
+      "diem": "Lợn đen nhỏ",
+      "soDanh": "38"
+    },
+    {
+      "id": 642,
+      "diem": "Lợn nhà",
+      "soDanh": "39"
+    },
+    {
+      "id": 643,
+      "diem": "Lợn quay",
+      "soDanh": "04 - 40"
+    },
+    {
+      "id": 644,
+      "diem": "Lớn trắng",
+      "soDanh": "74 - 79"
+    },
+    {
+      "id": 645,
+      "diem": "Lớp học đông người",
+      "soDanh": "81 - 84"
+    },
+    {
+      "id": 646,
+      "diem": "Lốp xe đạp",
+      "soDanh": "01 - 08"
+    },
+    {
+      "id": 647,
+      "diem": "Lửa cháy",
+      "soDanh": "07 - 27 - 67 - 87"
+    },
+    {
+      "id": 648,
+      "diem": "Lửa đảo",
+      "soDanh": "59"
+    },
+    {
+      "id": 649,
+      "diem": "Lửa đốt dế mèn",
+      "soDanh": "27 - 72"
+    },
+    {
+      "id": 650,
+      "diem": "Lúa gạo",
+      "soDanh": "08 - 80"
+    },
+    {
+      "id": 651,
+      "diem": "Lựu đạn",
+      "soDanh": "54 - 46"
+    },
+    {
+      "id": 652,
+      "diem": "Ma đuổi",
+      "soDanh": "33 - 34 - 35"
+    },
+    {
+      "id": 653,
+      "diem": "Ma hiện hình",
+      "soDanh": "37"
+    },
+    {
+      "id": 654,
+      "diem": "Mặc áo đẹp",
+      "soDanh": "12 - 33"
+    },
+    {
+      "id": 655,
+      "diem": "Mặc nhiều quần áo",
+      "soDanh": "79"
+    },
+    {
+      "id": 656,
+      "diem": "Mặc nhiều quần",
+      "soDanh": "6"
+    },
+    {
+      "id": 657,
+      "diem": "Mâm cơm nhiều người",
+      "soDanh": "29 - 94"
+    },
+    {
+      "id": 658,
+      "diem": "Mâm cơm",
+      "soDanh": "78 - 87"
+    },
+    {
+      "id": 659,
+      "diem": "Mất bô rô",
+      "soDanh": "52 - 28"
+    },
+    {
+      "id": 660,
+      "diem": "Mất cắp",
+      "soDanh": "86 - 84 - 39"
+    },
+    {
+      "id": 661,
+      "diem": "Mất của",
+      "soDanh": "35 - 44 - 66"
+    },
+    {
+      "id": 662,
+      "diem": "Mặt nạ",
+      "soDanh": "30 - 35 - 32"
+    },
+    {
+      "id": 663,
+      "diem": "Mất tiền",
+      "soDanh": "69 - 71"
+    },
+    {
+      "id": 664,
+      "diem": "Mặt trăng",
+      "soDanh": "18 - 81"
+    },
+    {
+      "id": 665,
+      "diem": "Mất trộm ti vi",
+      "soDanh": "15 - 78"
+    },
+    {
+      "id": 666,
+      "diem": "Mất trộm",
+      "soDanh": "01 - 03 - 43"
+    },
+    {
+      "id": 667,
+      "diem": "Mất ví",
+      "soDanh": "67"
+    },
+    {
+      "id": 668,
+      "diem": "Mất xe đạp lại tìm thấy được",
+      "soDanh": "28 - 13 - 61"
+    },
+    {
+      "id": 669,
+      "diem": "Mất xe đạp",
+      "soDanh": "28 - 82"
+    },
+    {
+      "id": 670,
+      "diem": "Mất xe tìm thấy được",
+      "soDanh": "67 - 64"
+    },
+    {
+      "id": 671,
+      "diem": "Mất xe tìm thấy",
+      "soDanh": "28 - 82 - 92"
+    },
+    {
+      "id": 672,
+      "diem": "Mắt",
+      "soDanh": "62 - 82 - 11 - 21 - 91 - 15"
+    },
+    {
+      "id": 673,
+      "diem": "Máu chảy nhiều",
+      "soDanh": "84 - 86 - 38"
+    },
+    {
+      "id": 674,
+      "diem": "Màu đỏ",
+      "soDanh": "28 - 68 - 82"
+    },
+    {
+      "id": 675,
+      "diem": "Màu trắng",
+      "soDanh": "1"
+    },
+    {
+      "id": 676,
+      "diem": "Màu vàng",
+      "soDanh": "10"
+    },
+    {
+      "id": 677,
+      "diem": "Màu xanh",
+      "soDanh": "09 - 90 - 45 - 95"
+    },
+    {
+      "id": 678,
+      "diem": "Máy bay đổ",
+      "soDanh": "59 - 95"
+    },
+    {
+      "id": 679,
+      "diem": "Máy bay",
+      "soDanh": "47 - 74 - 71 - 17"
+    },
+    {
+      "id": 680,
+      "diem": "Máy bơm nước",
+      "soDanh": "25 - 52"
+    },
+    {
+      "id": 681,
+      "diem": "Máy khâu",
+      "soDanh": "78 - 87"
+    },
+    {
+      "id": 682,
+      "diem": "May quần áo mới",
+      "soDanh": "54"
+    },
+    {
+      "id": 683,
+      "diem": "May",
+      "soDanh": "79 - 98 - 25"
+    },
+    {
+      "id": 684,
+      "diem": "Mẹ bế con gái",
+      "soDanh": "64 - 14"
+    },
+    {
+      "id": 685,
+      "diem": "Mẹ bế con trai",
+      "soDanh": "81 - 11 - 51"
+    },
+    {
+      "id": 686,
+      "diem": "Mẹ con",
+      "soDanh": "63 - 20"
+    },
+    {
+      "id": 687,
+      "diem": "Mẹ đỡ đầu",
+      "soDanh": "26 - 67 - 76"
+    },
+    {
+      "id": 688,
+      "diem": "Mèo cắn",
+      "soDanh": "29 - 14 - 41"
+    },
+    {
+      "id": 689,
+      "diem": "Mèo nằm ngủ",
+      "soDanh": "00 - 58"
+    },
+    {
+      "id": 690,
+      "diem": "Mèo nhà",
+      "soDanh": "18 - 81"
+    },
+    {
+      "id": 691,
+      "diem": "Mèo rừng",
+      "soDanh": "14 - 54 - 94"
+    },
+    {
+      "id": 692,
+      "diem": "Mèo trắng",
+      "soDanh": "23 - 32"
+    },
+    {
+      "id": 693,
+      "diem": "Mình bắn súng lục",
+      "soDanh": "61"
+    },
+    {
+      "id": 694,
+      "diem": "Mình bị bắt",
+      "soDanh": "84"
+    },
+    {
+      "id": 695,
+      "diem": "Mình bị đuổi",
+      "soDanh": "94 - 85"
+    },
+    {
+      "id": 696,
+      "diem": "Mình chém người",
+      "soDanh": "56"
+    },
+    {
+      "id": 697,
+      "diem": "Mình đá bóng",
+      "soDanh": "49 - 62"
+    },
+    {
+      "id": 698,
+      "diem": "Mình đỏ",
+      "soDanh": "72 - 91"
+    },
+    {
+      "id": 699,
+      "diem": "Mình ở khách sạn",
+      "soDanh": "64 - 69"
+    },
+    {
+      "id": 700,
+      "diem": "Mình thoát chết",
+      "soDanh": "86 - 87"
+    },
+    {
+      "id": 701,
+      "diem": "Mơ bố chết nhưng bố chưa chết",
+      "soDanh": "83 - 75"
+    },
+    {
+      "id": 702,
+      "diem": "Mơ chồng ngoại tình",
+      "soDanh": "90 - 87"
+    },
+    {
+      "id": 703,
+      "diem": "Mơ có vàng ngọc",
+      "soDanh": "03 - 63 - 83"
+    },
+    {
+      "id": 704,
+      "diem": "Mơ đi học",
+      "soDanh": "17 - 41 - 91 - 71"
+    },
+    {
+      "id": 705,
+      "diem": "Mơ hai chữ số",
+      "soDanh": "64 - 14"
+    },
+    {
+      "id": 706,
+      "diem": "Mơ hiện rõ hình",
+      "soDanh": "96 - 46"
+    },
+    {
+      "id": 707,
+      "diem": "Mơ lai gái",
+      "soDanh": "14 - 41"
+    },
+    {
+      "id": 708,
+      "diem": "Mồ mả",
+      "soDanh": "36 - 76"
+    },
+    {
+      "id": 709,
+      "diem": "Mơ mình bán hàng ăn",
+      "soDanh": "06 - 07"
+    },
+    {
+      "id": 710,
+      "diem": "Mơ ngủ",
+      "soDanh": "33 - 35 - 73"
+    },
+    {
+      "id": 711,
+      "diem": "Mơ người dị dạng",
+      "soDanh": "84 - 86"
+    },
+    {
+      "id": 712,
+      "diem": "Mơ nhiều con số",
+      "soDanh": "93 - 39"
+    },
+    {
+      "id": 713,
+      "diem": "Mơ nhiều trăn",
+      "soDanh": "95 - 87"
+    },
+    {
+      "id": 714,
+      "diem": "Mơ rắn vào nhà",
+      "soDanh": "22 - 23 - 30"
+    },
+    {
+      "id": 715,
+      "diem": "Mơ thấy ai chết không rõ",
+      "soDanh": "03 - 08"
+    },
+    {
+      "id": 716,
+      "diem": "Mơ thấy bà",
+      "soDanh": "42 - 27 - 51"
+    },
+    {
+      "id": 717,
+      "diem": "Mơ thấy bò",
+      "soDanh": "04 - 88"
+    },
+    {
+      "id": 718,
+      "diem": "Mơ thấy đàn ông",
+      "soDanh": "28 - 59"
+    },
+    {
+      "id": 719,
+      "diem": "Mơ thấy dế",
+      "soDanh": "33 - 45 - 99"
+    },
+    {
+      "id": 720,
+      "diem": "Mơ thấy đôi vợ chồng hạnh phúc",
+      "soDanh": "14 - 41"
+    },
+    {
+      "id": 721,
+      "diem": "Mơ thấy mẹ chết mà mẹ chưa chết",
+      "soDanh": "24 - 26"
+    },
+    {
+      "id": 722,
+      "diem": "Mơ thấy nhiều con số",
+      "soDanh": "92 - 93"
+    },
+    {
+      "id": 723,
+      "diem": "Mơ thấy tiền xu",
+      "soDanh": "01 - 02"
+    },
+    {
+      "id": 724,
+      "diem": "Mơ thấy tình địch",
+      "soDanh": "62 - 61"
+    },
+    {
+      "id": 725,
+      "diem": "Mơ trẻ con chết",
+      "soDanh": "92 - 65"
+    },
+    {
+      "id": 726,
+      "diem": "Mỏ vàng dưới sông",
+      "soDanh": "38 - 39"
+    },
+    {
+      "id": 727,
+      "diem": "Mơ vợ chết nhưng vợ chưa chết",
+      "soDanh": "73 - 54"
+    },
+    {
+      "id": 728,
+      "diem": "Mơ vợ chết",
+      "soDanh": "93 - 39"
+    },
+    {
+      "id": 729,
+      "diem": "Mơ vợ ngoại tình",
+      "soDanh": "03 - 93"
+    },
+    {
+      "id": 730,
+      "diem": "Mồm",
+      "soDanh": "18 - 81 - 85"
+    },
+    {
+      "id": 731,
+      "diem": "Món tiền nhỏ",
+      "soDanh": "03 - 07"
+    },
+    {
+      "id": 732,
+      "diem": "Một mình trong quán",
+      "soDanh": "79"
+    },
+    {
+      "id": 733,
+      "diem": "Mũ cứng",
+      "soDanh": "56 - 65"
+    },
+    {
+      "id": 734,
+      "diem": "Mũ phớt",
+      "soDanh": "01 - 02"
+    },
+    {
+      "id": 735,
+      "diem": "Mũ sắt",
+      "soDanh": "77 - 27 - 72"
+    },
+    {
+      "id": 736,
+      "diem": "Mua bán",
+      "soDanh": "15 - 25"
+    },
+    {
+      "id": 737,
+      "diem": "Mưa bão",
+      "soDanh": "29 - 69"
+    },
+    {
+      "id": 738,
+      "diem": "Mưa nhỏ",
+      "soDanh": "68 - 08 - 78"
+    },
+    {
+      "id": 739,
+      "diem": "Mua quạt điện",
+      "soDanh": "35"
+    },
+    {
+      "id": 740,
+      "diem": "Mưa rào",
+      "soDanh": "07 - 67 - 87"
+    },
+    {
+      "id": 741,
+      "diem": "Mưa",
+      "soDanh": "07 - 47 - 67 - 82"
+    },
+    {
+      "id": 742,
+      "diem": "Mực đen",
+      "soDanh": "10 - 90 - 78"
+    },
+    {
+      "id": 743,
+      "diem": "Múc nước giếng",
+      "soDanh": "06 - 37 - 63"
+    },
+    {
+      "id": 744,
+      "diem": "Mũi dao",
+      "soDanh": "36 - 76"
+    },
+    {
+      "id": 745,
+      "diem": "Mũi khoan",
+      "soDanh": "34 - 54 - 74"
+    },
+    {
+      "id": 746,
+      "diem": "Nằm đất",
+      "soDanh": "92"
+    },
+    {
+      "id": 747,
+      "diem": "Nam đèo nữ",
+      "soDanh": "12 - 25 - 92"
+    },
+    {
+      "id": 748,
+      "diem": "Nam đi xe máy",
+      "soDanh": "88 - 38"
+    },
+    {
+      "id": 749,
+      "diem": "Nam nữ yêu nhau",
+      "soDanh": "12 - 21"
+    },
+    {
+      "id": 750,
+      "diem": "Nắng",
+      "soDanh": "52 - 72 - 29 - 92"
+    },
+    {
+      "id": 751,
+      "diem": "Nạo thai",
+      "soDanh": "53 - 63 - 42"
+    },
+    {
+      "id": 752,
+      "diem": "Nếm đồ chua chát",
+      "soDanh": "68 - 54 - 45"
+    },
+    {
+      "id": 753,
+      "diem": "Nếm đồ ngọt",
+      "soDanh": "34 - 39"
+    },
+    {
+      "id": 754,
+      "diem": "Ném vào ma",
+      "soDanh": "65 - 66"
+    },
+    {
+      "id": 755,
+      "diem": "Ném",
+      "soDanh": "05 - 65 - 85"
+    },
+    {
+      "id": 756,
+      "diem": "Ngã",
+      "soDanh": "66 - 16 - 61"
+    },
+    {
+      "id": 757,
+      "diem": "Ngắm vuốt",
+      "soDanh": "17 - 38 - 81"
+    },
+    {
+      "id": 758,
+      "diem": "Nghe caset điện yếu",
+      "soDanh": "74"
+    },
+    {
+      "id": 759,
+      "diem": "Nghệ sỹ",
+      "soDanh": "10"
+    },
+    {
+      "id": 760,
+      "diem": "Nghèo khổ",
+      "soDanh": "19 - 14"
+    },
+    {
+      "id": 761,
+      "diem": "Nghi ngờ vàng giả",
+      "soDanh": "60"
+    },
+    {
+      "id": 762,
+      "diem": "Nghi ngờ",
+      "soDanh": "49 - 94"
+    },
+    {
+      "id": 763,
+      "diem": "Nghĩa địa",
+      "soDanh": "12 - 72 - 92"
+    },
+    {
+      "id": 764,
+      "diem": "Ngọc hoàng",
+      "soDanh": "05 - 15 - 17 - 95"
+    },
+    {
+      "id": 765,
+      "diem": "Ngọc",
+      "soDanh": "45 - 54 - 15"
+    },
+    {
+      "id": 766,
+      "diem": "Ngồi gãi chấy",
+      "soDanh": "15 - 14 - 16"
+    },
+    {
+      "id": 767,
+      "diem": "Ngũ hương",
+      "soDanh": "28 - 92"
+    },
+    {
+      "id": 768,
+      "diem": "Ngủ lang",
+      "soDanh": "96 - 86"
+    },
+    {
+      "id": 769,
+      "diem": "Ngủ với gái",
+      "soDanh": "21 - 61 - 28 - 75 - 57"
+    },
+    {
+      "id": 770,
+      "diem": "Ngủ",
+      "soDanh": "04 - 54 - 92"
+    },
+    {
+      "id": 771,
+      "diem": "Ngựa ăn cỏ",
+      "soDanh": "60 - 82"
+    },
+    {
+      "id": 772,
+      "diem": "Ngựa bay",
+      "soDanh": "77"
+    },
+    {
+      "id": 773,
+      "diem": "Ngựa",
+      "soDanh": "01 - 62"
+    },
+    {
+      "id": 774,
+      "diem": "Người ăn bánh mỳ",
+      "soDanh": "69"
+    },
+    {
+      "id": 775,
+      "diem": "Người bệnh",
+      "soDanh": "58 - 85 - 80"
+    },
+    {
+      "id": 776,
+      "diem": "Người bị chó cắn",
+      "soDanh": "96"
+    },
+    {
+      "id": 777,
+      "diem": "Người chết sống lại",
+      "soDanh": "85 - 37"
+    },
+    {
+      "id": 778,
+      "diem": "Người chết",
+      "soDanh": "26 - 65"
+    },
+    {
+      "id": 779,
+      "diem": "Người đàn ông ở trần",
+      "soDanh": "13 - 43"
+    },
+    {
+      "id": 780,
+      "diem": "Người dân tộc đánh nhau",
+      "soDanh": "83 - 37"
+    },
+    {
+      "id": 781,
+      "diem": "Người đập lửa",
+      "soDanh": "34 - 47 - 69"
+    },
+    {
+      "id": 782,
+      "diem": "Người đầy bùn",
+      "soDanh": "32 - 86"
+    },
+    {
+      "id": 783,
+      "diem": "Người đẻ khó",
+      "soDanh": "91"
+    },
+    {
+      "id": 784,
+      "diem": "Người đòi nợ",
+      "soDanh": "92 - 12"
+    },
+    {
+      "id": 785,
+      "diem": "Người già đến",
+      "soDanh": "56 - 86"
+    },
+    {
+      "id": 786,
+      "diem": "Người khó đẻ",
+      "soDanh": "91"
+    },
+    {
+      "id": 787,
+      "diem": "Người mẹ tốt",
+      "soDanh": "01 - 22 - 41"
+    },
+    {
+      "id": 788,
+      "diem": "Người mù",
+      "soDanh": "62 - 82 - 68"
+    },
+    {
+      "id": 789,
+      "diem": "Người nhà ma nhập",
+      "soDanh": "67 - 87 - 97"
+    },
+    {
+      "id": 790,
+      "diem": "Người rủ đánh bạc",
+      "soDanh": "71"
+    },
+    {
+      "id": 791,
+      "diem": "Người ta đánh mẹ chảy máu đầu",
+      "soDanh": "63 - 68 - 64"
+    },
+    {
+      "id": 792,
+      "diem": "Người tàn tật",
+      "soDanh": "93 - 91"
+    },
+    {
+      "id": 793,
+      "diem": "Người tây",
+      "soDanh": "13 - 43 - 93 - 98"
+    },
+    {
+      "id": 794,
+      "diem": "Người trèo bàn thờ",
+      "soDanh": "95 - 59"
+    },
+    {
+      "id": 795,
+      "diem": "Người trèo xuồng",
+      "soDanh": "02 - 61 - 89"
+    },
+    {
+      "id": 796,
+      "diem": "Người xa về",
+      "soDanh": "45 - 75 - 32"
+    },
+    {
+      "id": 797,
+      "diem": "Nhà bán hàng",
+      "soDanh": "24 - 64 - 78"
+    },
+    {
+      "id": 798,
+      "diem": "Nhà bằng bạc",
+      "soDanh": "2"
+    },
+    {
+      "id": 799,
+      "diem": "Nhà bé nhỏ",
+      "soDanh": "52 - 61"
+    },
+    {
+      "id": 800,
+      "diem": "Nhà đất lợp rạ",
+      "soDanh": "82 - 84"
+    },
+    {
+      "id": 801,
+      "diem": "Nhà đẹp",
+      "soDanh": "66 - 16"
+    },
+    {
+      "id": 802,
+      "diem": "Nhà hát",
+      "soDanh": "38 - 83"
+    },
+    {
+      "id": 803,
+      "diem": "Nhà hộ sinh",
+      "soDanh": "37 - 73 - 71 - 79"
+    },
+    {
+      "id": 804,
+      "diem": "Nhà mái bằng",
+      "soDanh": "46 - 64"
+    },
+    {
+      "id": 805,
+      "diem": "Nhà mát",
+      "soDanh": "32 - 23"
+    },
+    {
+      "id": 806,
+      "diem": "Nhà máy",
+      "soDanh": "48 - 68 - 28"
+    },
+    {
+      "id": 807,
+      "diem": "Nhà nghỉ mát",
+      "soDanh": "32"
+    },
+    {
+      "id": 808,
+      "diem": "",
+      "soDanh": "32"
+    },
+    {
+      "id": 809,
+      "diem": "Nhà ngói đỏ",
+      "soDanh": "84 - 92"
+    },
+    {
+      "id": 810,
+      "diem": "Nhà ở bình thường",
+      "soDanh": "26 - 66 - 86 - 96"
+    },
+    {
+      "id": 811,
+      "diem": "Nhà to",
+      "soDanh": "51 - 89"
+    },
+    {
+      "id": 812,
+      "diem": "Nhà tối tăm",
+      "soDanh": "25 - 65"
+    },
+    {
+      "id": 813,
+      "diem": "Nhà trẻ",
+      "soDanh": "27 - 37"
+    },
+    {
+      "id": 814,
+      "diem": "Nhà trọ",
+      "soDanh": "92 - 19"
+    },
+    {
+      "id": 815,
+      "diem": "Nhà trong rừng",
+      "soDanh": "02 - 18 - 51"
+    },
+    {
+      "id": 816,
+      "diem": "Nhà vệ sinh",
+      "soDanh": "34 - 71"
+    },
+    {
+      "id": 817,
+      "diem": "Nhà xe",
+      "soDanh": "65 - 66 - 67"
+    },
+    {
+      "id": 818,
+      "diem": "Nhận được của bố thí",
+      "soDanh": "48"
+    },
+    {
+      "id": 819,
+      "diem": "Nhẫn ngọc",
+      "soDanh": "37, 73"
+    },
+    {
+      "id": 820,
+      "diem": "Nhận tiền của người con gái",
+      "soDanh": "88"
+    },
+    {
+      "id": 821,
+      "diem": "Nhẫn vàng",
+      "soDanh": "01 - 10 - 00"
+    },
+    {
+      "id": 822,
+      "diem": "Nhện trăng xa",
+      "soDanh": "63"
+    },
+    {
+      "id": 823,
+      "diem": "Nhện",
+      "soDanh": "56"
+    },
+    {
+      "id": 824,
+      "diem": "Nhiều ghế",
+      "soDanh": "44 - 84"
+    },
+    {
+      "id": 825,
+      "diem": "Nhiều hũ nước đái",
+      "soDanh": "96 - 69"
+    },
+    {
+      "id": 826,
+      "diem": "Nhiều màu",
+      "soDanh": "78"
+    },
+    {
+      "id": 827,
+      "diem": "Nhiều người đòi nợ mình",
+      "soDanh": "56"
+    },
+    {
+      "id": 828,
+      "diem": "Nhìn thấy máu người chảy",
+      "soDanh": "09 - 54"
+    },
+    {
+      "id": 829,
+      "diem": "Nhổ tóc sâu",
+      "soDanh": "64 - 46 - 41"
+    },
+    {
+      "id": 830,
+      "diem": "Nóc nhà",
+      "soDanh": "86 - 68"
+    },
+    {
+      "id": 831,
+      "diem": "Nồi áp suất",
+      "soDanh": "84 - 39"
+    },
+    {
+      "id": 832,
+      "diem": "Nói chuyện với bố",
+      "soDanh": "51 - 56"
+    },
+    {
+      "id": 833,
+      "diem": "Nói chuyện với mẹ",
+      "soDanh": "57 - 75"
+    },
+    {
+      "id": 834,
+      "diem": "Nói chuyện với người chết",
+      "soDanh": "84 - 29"
+    },
+    {
+      "id": 835,
+      "diem": "Nói chuyện với người đã chết",
+      "soDanh": "75 - 76 - 90 - 92"
+    },
+    {
+      "id": 836,
+      "diem": "Nói dối bạn",
+      "soDanh": "09 - 37"
+    },
+    {
+      "id": 837,
+      "diem": "Nói tục",
+      "soDanh": "41 - 91 - 96"
+    },
+    {
+      "id": 838,
+      "diem": "Nữ rụng răng",
+      "soDanh": "03 - 53 - 85"
+    },
+    {
+      "id": 839,
+      "diem": "Nước chảy",
+      "soDanh": "35 - 45 - 65"
+    },
+    {
+      "id": 840,
+      "diem": "Nước đái có máu",
+      "soDanh": "43"
+    },
+    {
+      "id": 841,
+      "diem": "Nước dâng cao",
+      "soDanh": "06 - 56 - 66"
+    },
+    {
+      "id": 842,
+      "diem": "Nước dâng vào ngõ",
+      "soDanh": "06 - 56"
+    },
+    {
+      "id": 843,
+      "diem": "Nước dâng",
+      "soDanh": "06 - 66 - 86 - 56 - 07 - 70 - 50"
+    },
+    {
+      "id": 844,
+      "diem": "Nước lụt",
+      "soDanh": "67 - 68"
+    },
+    {
+      "id": 845,
+      "diem": "Nước mắt",
+      "soDanh": "87 - 85"
+    },
+    {
+      "id": 846,
+      "diem": "Nước sông dâng cao",
+      "soDanh": "89 - 98"
+    },
+    {
+      "id": 847,
+      "diem": "Nước to vào nhà",
+      "soDanh": "06 - 08 - 56"
+    },
+    {
+      "id": 848,
+      "diem": "Nướng sắn",
+      "soDanh": "99 - 94"
+    },
+    {
+      "id": 849,
+      "diem": "Ổ khóa",
+      "soDanh": "95 - 86"
+    },
+    {
+      "id": 850,
+      "diem": "Ô tô cháy",
+      "soDanh": "47 - 56"
+    },
+    {
+      "id": 851,
+      "diem": "Ô tô hồ lô kẹt chết người",
+      "soDanh": "12 - 21 - 26"
+    },
+    {
+      "id": 852,
+      "diem": "Ô tô kẹp chết người",
+      "soDanh": "07 - 70"
+    },
+    {
+      "id": 853,
+      "diem": "Ôm nhau",
+      "soDanh": "64 - 85 - 97"
+    },
+    {
+      "id": 854,
+      "diem": "Ông chủ",
+      "soDanh": "21 - 26 - 22 - 27"
+    },
+    {
+      "id": 855,
+      "diem": "Ông cụ già",
+      "soDanh": "15 - 65 - 56 - 96"
+    },
+    {
+      "id": 856,
+      "diem": "Ông già cho quà",
+      "soDanh": "75"
+    },
+    {
+      "id": 857,
+      "diem": "Ông già",
+      "soDanh": "36 - 56 - 76"
+    },
+    {
+      "id": 858,
+      "diem": "Ông sãi, bà sãi",
+      "soDanh": "16 - 56 - 36"
+    },
+    {
+      "id": 859,
+      "diem": "Ông sư",
+      "soDanh": "16 - 61 - 36"
+    },
+    {
+      "id": 860,
+      "diem": "Ông táo",
+      "soDanh": "40 - 45 - 80 - 85"
+    },
+    {
+      "id": 861,
+      "diem": "Ông trời",
+      "soDanh": "37"
+    },
+    {
+      "id": 862,
+      "diem": "Ông tượng",
+      "soDanh": "82 - 06 - 43 - 88"
+    },
+    {
+      "id": 863,
+      "diem": "Phá ra cười",
+      "soDanh": "41 - 52 - 57"
+    },
+    {
+      "id": 864,
+      "diem": "Phải lội xuống ao",
+      "soDanh": "7"
+    },
+    {
+      "id": 865,
+      "diem": "Pháp sư",
+      "soDanh": "09 - 29 - 35 - 96"
+    },
+    {
+      "id": 866,
+      "diem": "Phát minh",
+      "soDanh": "06 - 17 - 37 - 97"
+    },
+    {
+      "id": 867,
+      "diem": "Phát sư",
+      "soDanh": "08 - 25 - 50"
+    },
+    {
+      "id": 868,
+      "diem": "Phật",
+      "soDanh": "57 - 75"
+    },
+    {
+      "id": 869,
+      "diem": "Phóc mơ tuya",
+      "soDanh": "99"
+    },
+    {
+      "id": 870,
+      "diem": "Phóng sự",
+      "soDanh": "25 - 26 - 27"
+    },
+    {
+      "id": 871,
+      "diem": "Phụ hồ",
+      "soDanh": "03 - 08 - 83"
+    },
+    {
+      "id": 872,
+      "diem": "Phụ lòng",
+      "soDanh": "18 - 28 - 78"
+    },
+    {
+      "id": 873,
+      "diem": "Phun nước trong nhà",
+      "soDanh": "06 - 66"
+    },
+    {
+      "id": 874,
+      "diem": "Phượng hoàng",
+      "soDanh": "13 - 78 - 98"
+    },
+    {
+      "id": 875,
+      "diem": "Quả bàng",
+      "soDanh": "31 - 32"
+    },
+    {
+      "id": 876,
+      "diem": "Quả bóng",
+      "soDanh": "11 - 45 - 72"
+    },
+    {
+      "id": 877,
+      "diem": "Quả bưởi",
+      "soDanh": "01 - 09 - 70"
+    },
+    {
+      "id": 878,
+      "diem": "Quả cam",
+      "soDanh": "05 - 25 - 55"
+    },
+    {
+      "id": 879,
+      "diem": "Qụa chết",
+      "soDanh": "36 - 80 - 85"
+    },
+    {
+      "id": 880,
+      "diem": "Quả chuối",
+      "soDanh": "34 - 43"
+    },
+    {
+      "id": 881,
+      "diem": "Quả đu đủ",
+      "soDanh": "58 - 89"
+    },
+    {
+      "id": 882,
+      "diem": "Quả dừa",
+      "soDanh": "50 - 70 - 09"
+    },
+    {
+      "id": 883,
+      "diem": "Quả na",
+      "soDanh": "13 - 14"
+    },
+    {
+      "id": 884,
+      "diem": "Quả quất",
+      "soDanh": "30 - 70"
+    },
+    {
+      "id": 885,
+      "diem": "Quả rụng",
+      "soDanh": "89 - 93"
+    },
+    {
+      "id": 886,
+      "diem": "Quả trên cây",
+      "soDanh": "84 - 48"
+    },
+    {
+      "id": 887,
+      "diem": "Quả",
+      "soDanh": "26 - 60"
+    },
+    {
+      "id": 888,
+      "diem": "Quái vật",
+      "soDanh": "30 - 39 - 17"
+    },
+    {
+      "id": 889,
+      "diem": "Quần áo vá nhiều",
+      "soDanh": "01 - 11"
+    },
+    {
+      "id": 890,
+      "diem": "Quần áo",
+      "soDanh": "09 - 06"
+    },
+    {
+      "id": 891,
+      "diem": "Quản bưởi",
+      "soDanh": "17 - 71"
+    },
+    {
+      "id": 892,
+      "diem": "Quần lót",
+      "soDanh": "02 - 59"
+    },
+    {
+      "id": 893,
+      "diem": "Quán rượu ngoài trời",
+      "soDanh": "69"
+    },
+    {
+      "id": 894,
+      "diem": "Quan tài bố nuôi",
+      "soDanh": "62 - 63"
+    },
+    {
+      "id": 895,
+      "diem": "Quan tài chôn rồi",
+      "soDanh": "01 - 51"
+    },
+    {
+      "id": 896,
+      "diem": "Quan tài chưa chôn",
+      "soDanh": "4"
+    },
+    {
+      "id": 897,
+      "diem": "Quan tài có xác chết",
+      "soDanh": "74 - 21"
+    },
+    {
+      "id": 898,
+      "diem": "Quan tài mở nắp",
+      "soDanh": "31 - 36"
+    },
+    {
+      "id": 899,
+      "diem": "Quan tài",
+      "soDanh": "06 - 56 - 26"
+    },
+    {
+      "id": 900,
+      "diem": "Quạt trần",
+      "soDanh": "82"
+    },
+    {
+      "id": 901,
+      "diem": "Quét nhà",
+      "soDanh": "34 - 43"
+    },
+    {
+      "id": 902,
+      "diem": "Cuốc xẻng",
+      "soDanh": "68"
+    },
+    {
+      "id": 903,
+      "diem": "Quyển vở",
+      "soDanh": "18 - 19"
+    },
+    {
+      "id": 904,
+      "diem": "Ra đa",
+      "soDanh": "45 - 54"
+    },
+    {
+      "id": 905,
+      "diem": "Ra suối mưa to",
+      "soDanh": "35 - 53"
+    },
+    {
+      "id": 906,
+      "diem": "Rắn bơi",
+      "soDanh": "21 - 82"
+    },
+    {
+      "id": 907,
+      "diem": "Rắn cắn gót chân",
+      "soDanh": "57"
+    },
+    {
+      "id": 908,
+      "diem": "Rắn cắn người",
+      "soDanh": "43 - 73"
+    },
+    {
+      "id": 909,
+      "diem": "Rắn cắn",
+      "soDanh": "14 - 59 - 95"
+    },
+    {
+      "id": 910,
+      "diem": "Rắn đất",
+      "soDanh": "38 - 78"
+    },
+    {
+      "id": 911,
+      "diem": "Rắn đuổi",
+      "soDanh": "69"
+    },
+    {
+      "id": 912,
+      "diem": "Rắn hai đầu",
+      "soDanh": "15 - 51"
+    },
+    {
+      "id": 913,
+      "diem": "Rắn quấn chân",
+      "soDanh": "96"
+    },
+    {
+      "id": 914,
+      "diem": "Rắn quấn người",
+      "soDanh": "49 - 97"
+    },
+    {
+      "id": 915,
+      "diem": "Rắn quấn",
+      "soDanh": "05 - 15 - 51"
+    },
+    {
+      "id": 916,
+      "diem": "Rắn rết",
+      "soDanh": "00 - 20 - 28 - 40 - 82"
+    },
+    {
+      "id": 917,
+      "diem": "Râu mọc dài",
+      "soDanh": "25 - 57"
+    },
+    {
+      "id": 918,
+      "diem": "Râu",
+      "soDanh": "03 - 53 - 07 - 75"
+    },
+    {
+      "id": 919,
+      "diem": "Rệp",
+      "soDanh": "26 - 64"
+    },
+    {
+      "id": 920,
+      "diem": "Rổ đỗ",
+      "soDanh": "28 - 48 - 68 - 86"
+    },
+    {
+      "id": 921,
+      "diem": "Rổ trứng",
+      "soDanh": "70 - 30"
+    },
+    {
+      "id": 922,
+      "diem": "Rơi kính đeo",
+      "soDanh": "32 - 89"
+    },
+    {
+      "id": 923,
+      "diem": "Rơm rạ",
+      "soDanh": "36 - 78"
+    },
+    {
+      "id": 924,
+      "diem": "Rồng bay",
+      "soDanh": "57 - 34"
+    },
+    {
+      "id": 925,
+      "diem": "Rùa biển",
+      "soDanh": "87"
+    },
+    {
+      "id": 926,
+      "diem": "Rửa chân",
+      "soDanh": "86 - 68"
+    },
+    {
+      "id": 927,
+      "diem": "Rùa",
+      "soDanh": "56"
+    },
+    {
+      "id": 928,
+      "diem": "Rụng cả hàm răng",
+      "soDanh": "3"
+    },
+    {
+      "id": 929,
+      "diem": "Rụng một chiếc răng",
+      "soDanh": "31"
+    },
+    {
+      "id": 930,
+      "diem": "Rụng răng",
+      "soDanh": "31 - 32 - 52 - 62"
+    },
+    {
+      "id": 931,
+      "diem": "Sấm sét",
+      "soDanh": "94 - 95 - 54"
+    },
+    {
+      "id": 932,
+      "diem": "Sang nhà láng giềng",
+      "soDanh": "42 - 43 - 64"
+    },
+    {
+      "id": 933,
+      "diem": "Sao trên trời",
+      "soDanh": "33 - 38"
+    },
+    {
+      "id": 934,
+      "diem": "Sắt",
+      "soDanh": "93 - 58"
+    },
+    {
+      "id": 935,
+      "diem": "Say rượu",
+      "soDanh": "35 - 45 - 90"
+    },
+    {
+      "id": 936,
+      "diem": "Sinh đẻ",
+      "soDanh": "27 - 56"
+    },
+    {
+      "id": 937,
+      "diem": "Sinh lí hai người",
+      "soDanh": "02 - 22"
+    },
+    {
+      "id": 938,
+      "diem": "Sổ điểm",
+      "soDanh": "30 - 35"
+    },
+    {
+      "id": 939,
+      "diem": "Sợ ma",
+      "soDanh": "75 - 23 - 96"
+    },
+    {
+      "id": 940,
+      "diem": "Sổ rách bìa",
+      "soDanh": "45 - 49"
+    },
+    {
+      "id": 941,
+      "diem": "Sổ sách",
+      "soDanh": "38 - 88"
+    },
+    {
+      "id": 942,
+      "diem": "Sông ngòi",
+      "soDanh": "42"
+    },
+    {
+      "id": 943,
+      "diem": "Sư sãi bắt đồn",
+      "soDanh": "76 - 46"
+    },
+    {
+      "id": 944,
+      "diem": "Sư tử",
+      "soDanh": "25, 45"
+    },
+    {
+      "id": 945,
+      "diem": "Sửa lại hố xí",
+      "soDanh": "79 - 70"
+    },
+    {
+      "id": 946,
+      "diem": "Súng ak",
+      "soDanh": "86"
+    },
+    {
+      "id": 947,
+      "diem": "Súng b40",
+      "soDanh": "18 - 64"
+    },
+    {
+      "id": 948,
+      "diem": "Súng bắn dài",
+      "soDanh": "68"
+    },
+    {
+      "id": 949,
+      "diem": "Súng hơi",
+      "soDanh": "00 - 97"
+    },
+    {
+      "id": 950,
+      "diem": "Suối nước đục",
+      "soDanh": "09 - 18"
+    },
+    {
+      "id": 951,
+      "diem": "Suối nước trong",
+      "soDanh": "41 - 47"
+    },
+    {
+      "id": 952,
+      "diem": "Sụt lở",
+      "soDanh": "09 - 13"
+    },
+    {
+      "id": 953,
+      "diem": "Tai nạn ô tô",
+      "soDanh": "69 - 54"
+    },
+    {
+      "id": 954,
+      "diem": "Tai nạn tàu hỏa",
+      "soDanh": "07 - 26"
+    },
+    {
+      "id": 955,
+      "diem": "Tai nạn xe máy",
+      "soDanh": "95"
+    },
+    {
+      "id": 956,
+      "diem": "Tai nạn",
+      "soDanh": "00 - 07 - 70 - 46"
+    },
+    {
+      "id": 957,
+      "diem": "Tắm bồn",
+      "soDanh": "61 - 82 - 76"
+    },
+    {
+      "id": 958,
+      "diem": "Tắm nước lạnh",
+      "soDanh": "61 - 86"
+    },
+    {
+      "id": 959,
+      "diem": "Tắm nước trong",
+      "soDanh": "16 - 61"
+    },
+    {
+      "id": 960,
+      "diem": "Tắm sông",
+      "soDanh": "94 - 76"
+    },
+    {
+      "id": 961,
+      "diem": "Tàn sát",
+      "soDanh": "05 - 59"
+    },
+    {
+      "id": 962,
+      "diem": "Tảng đá",
+      "soDanh": "20 - 40 - 60 - 80"
+    },
+    {
+      "id": 963,
+      "diem": "Tập võ",
+      "soDanh": "70 - 72"
+    },
+    {
+      "id": 964,
+      "diem": "Tầu bay",
+      "soDanh": "10 - 11"
+    },
+    {
+      "id": 965,
+      "diem": "Tàu biển",
+      "soDanh": "11 - 70 - 90"
+    },
+    {
+      "id": 966,
+      "diem": "Tầu hỏa",
+      "soDanh": "74 - 72"
+    },
+    {
+      "id": 967,
+      "diem": "Tàu thủy cháy",
+      "soDanh": "38 - 83"
+    },
+    {
+      "id": 968,
+      "diem": "Tàu thủy",
+      "soDanh": "11 - 16"
+    },
+    {
+      "id": 969,
+      "diem": "Tẩy rửa",
+      "soDanh": "62 - 41 - 10 - 01"
+    },
+    {
+      "id": 970,
+      "diem": "Tên lửa",
+      "soDanh": "1"
+    },
+    {
+      "id": 971,
+      "diem": "Thạch thùng",
+      "soDanh": "32 - 72"
+    },
+    {
+      "id": 972,
+      "diem": "Tham ăn",
+      "soDanh": "69 - 84"
+    },
+    {
+      "id": 973,
+      "diem": "Thẩm phán quan tòa",
+      "soDanh": "24 - 89"
+    },
+    {
+      "id": 974,
+      "diem": "Thần chết",
+      "soDanh": "83 - 93"
+    },
+    {
+      "id": 975,
+      "diem": "Thần tài",
+      "soDanh": "36 - 39 - 79 - 10"
+    },
+    {
+      "id": 976,
+      "diem": "Than thở",
+      "soDanh": "90 - 95"
+    },
+    {
+      "id": 977,
+      "diem": "Thằng điên",
+      "soDanh": "74 - 75"
+    },
+    {
+      "id": 978,
+      "diem": "Thằng hề",
+      "soDanh": "03 - 08"
+    },
+    {
+      "id": 979,
+      "diem": "Thằng ngốc",
+      "soDanh": "29 - 90"
+    },
+    {
+      "id": 980,
+      "diem": "Thành lũy",
+      "soDanh": "40 - 45 - 54"
+    },
+    {
+      "id": 981,
+      "diem": "Thanh sắt",
+      "soDanh": "19 - 09"
+    },
+    {
+      "id": 982,
+      "diem": "Thất vọng",
+      "soDanh": "12 - 71 - 64"
+    },
+    {
+      "id": 983,
+      "diem": "Thấy bể nước",
+      "soDanh": "87 - 54 - 61"
+    },
+    {
+      "id": 984,
+      "diem": "Thầy bói",
+      "soDanh": "14 - 64 - 49"
+    },
+    {
+      "id": 985,
+      "diem": "Thấy có nước mà không người tắm",
+      "soDanh": "32 - 64 - 68 - 37"
+    },
+    {
+      "id": 986,
+      "diem": "Thầy cúng",
+      "soDanh": "40, 45"
+    },
+    {
+      "id": 987,
+      "diem": "Thấy dây dầu",
+      "soDanh": "39"
+    },
+    {
+      "id": 988,
+      "diem": "Thấy người bé nhỏ",
+      "soDanh": "45 - 61"
+    },
+    {
+      "id": 989,
+      "diem": "Thấy người bị ám sát",
+      "soDanh": "22 - 37"
+    },
+    {
+      "id": 990,
+      "diem": "Thấy người bị treo cổ",
+      "soDanh": "95 - 97"
+    },
+    {
+      "id": 991,
+      "diem": "Thấy người cao lớn",
+      "soDanh": "21 - 32"
+    },
+    {
+      "id": 992,
+      "diem": "Thấy người còn trẻ",
+      "soDanh": "64 - 78"
+    },
+    {
+      "id": 993,
+      "diem": "Thấy người đi dạo",
+      "soDanh": "32 - 89"
+    },
+    {
+      "id": 994,
+      "diem": "Thấy người đội mũ",
+      "soDanh": "56 - 89"
+    },
+    {
+      "id": 995,
+      "diem": "Thấy người đốt làng",
+      "soDanh": "06 - 21 - 48"
+    },
+    {
+      "id": 996,
+      "diem": "Thấy người mua",
+      "soDanh": "68"
+    },
+    {
+      "id": 997,
+      "diem": "Thấy người to béo",
+      "soDanh": "25 - 75 - 74"
+    },
+    {
+      "id": 998,
+      "diem": "Thấy tiền",
+      "soDanh": "02 - 52 - 82"
+    },
+    {
+      "id": 999,
+      "diem": "Thấy treo cổ nhiều người",
+      "soDanh": "86"
+    },
+    {
+      "id": 1000,
+      "diem": "Thấy xác chết",
+      "soDanh": "04 - 60"
+    },
+    {
+      "id": 1001,
+      "diem": "Thèm khát tình yêu",
+      "soDanh": "86 - 31"
+    },
+    {
+      "id": 1002,
+      "diem": "Thi đỗ",
+      "soDanh": "26 - 28"
+    },
+    {
+      "id": 1003,
+      "diem": "Thi thố",
+      "soDanh": "00 - 62"
+    },
+    {
+      "id": 1004,
+      "diem": "Thìa",
+      "soDanh": "05 - 38"
+    },
+    {
+      "id": 1005,
+      "diem": "Thiên tài",
+      "soDanh": "49 - 79 - 29"
+    },
+    {
+      "id": 1006,
+      "diem": "Thiếu ngũ văn",
+      "soDanh": "63"
+    },
+    {
+      "id": 1007,
+      "diem": "Thỏ con",
+      "soDanh": "38 - 78"
+    },
+    {
+      "id": 1008,
+      "diem": "Thổ công",
+      "soDanh": "57 - 79"
+    },
+    {
+      "id": 1009,
+      "diem": "Thổ địa",
+      "soDanh": "38 - 78 - 87"
+    },
+    {
+      "id": 1010,
+      "diem": "Thợ làm bánh",
+      "soDanh": "03 - 21"
+    },
+    {
+      "id": 1011,
+      "diem": "Thợ xây",
+      "soDanh": "78 - 87 - 73"
+    },
+    {
+      "id": 1012,
+      "diem": "Thoát trấn lột",
+      "soDanh": "00 - 08"
+    },
+    {
+      "id": 1013,
+      "diem": "Thóc",
+      "soDanh": "34 - 74"
+    },
+    {
+      "id": 1014,
+      "diem": "Thỏi vàng",
+      "soDanh": "82 - 37"
+    },
+    {
+      "id": 1015,
+      "diem": "Thôn quê",
+      "soDanh": "57 - 75"
+    },
+    {
+      "id": 1016,
+      "diem": "Thua bạc",
+      "soDanh": "25 - 35"
+    },
+    {
+      "id": 1017,
+      "diem": "Thua xì",
+      "soDanh": "39 - 93 - 63"
+    },
+    {
+      "id": 1018,
+      "diem": "Thùng xách nước",
+      "soDanh": "70 - 93"
+    },
+    {
+      "id": 1019,
+      "diem": "Thước kẻ",
+      "soDanh": "11 - 05"
+    },
+    {
+      "id": 1020,
+      "diem": "Thuốc lá giả",
+      "soDanh": "92 - 29"
+    },
+    {
+      "id": 1021,
+      "diem": "Thuốc lá",
+      "soDanh": "08 - 85"
+    },
+    {
+      "id": 1022,
+      "diem": "Thuyền bị đắm",
+      "soDanh": "08 - 10 - 64"
+    },
+    {
+      "id": 1023,
+      "diem": "Thuyền xa lầy",
+      "soDanh": "73 - 23"
+    },
+    {
+      "id": 1024,
+      "diem": "Ti vi",
+      "soDanh": "78 - 73"
+    },
+    {
+      "id": 1025,
+      "diem": "Tiền giả",
+      "soDanh": "00 - 86"
+    },
+    {
+      "id": 1026,
+      "diem": "Tiền hai nghìn",
+      "soDanh": "53 - 96"
+    },
+    {
+      "id": 1027,
+      "diem": "Tiền hai trăm",
+      "soDanh": "12 - 78 - 89"
+    },
+    {
+      "id": 1028,
+      "diem": "Tiền năm nghìn",
+      "soDanh": "87"
+    },
+    {
+      "id": 1029,
+      "diem": "Tiền năm trăm",
+      "soDanh": "56 - 46"
+    },
+    {
+      "id": 1030,
+      "diem": "Tiên trên cao",
+      "soDanh": "47"
+    },
+    {
+      "id": 1031,
+      "diem": "Tiền",
+      "soDanh": "62 - 12 - 67"
+    },
+    {
+      "id": 1032,
+      "diem": "Tiết canh lợn",
+      "soDanh": "38 - 83"
+    },
+    {
+      "id": 1033,
+      "diem": "Tin mừng ở xa",
+      "soDanh": "12 - 02"
+    },
+    {
+      "id": 1034,
+      "diem": "Tin mừng",
+      "soDanh": "12 - 32"
+    },
+    {
+      "id": 1035,
+      "diem": "Tin xấu đột ngột",
+      "soDanh": "01 - 13"
+    },
+    {
+      "id": 1036,
+      "diem": "Tin xấu",
+      "soDanh": "02 - 03 - 04"
+    },
+    {
+      "id": 1037,
+      "diem": "Tình báo",
+      "soDanh": "49"
+    },
+    {
+      "id": 1038,
+      "diem": "Tình nhân ồn ào",
+      "soDanh": "47 - 48"
+    },
+    {
+      "id": 1039,
+      "diem": "Tính tiền nhầm",
+      "soDanh": "39 - 72"
+    },
+    {
+      "id": 1040,
+      "diem": "Tinh trùng",
+      "soDanh": "07 - 65 - 88"
+    },
+    {
+      "id": 1041,
+      "diem": "Tình tứ nói chuyện",
+      "soDanh": "34"
+    },
+    {
+      "id": 1042,
+      "diem": "Tình tứ",
+      "soDanh": "64 - 74 - 84"
+    },
+    {
+      "id": 1043,
+      "diem": "Tờ báo",
+      "soDanh": "49 - 98"
+    },
+    {
+      "id": 1044,
+      "diem": "Tờ giấy",
+      "soDanh": "89 - 39"
+    },
+    {
+      "id": 1045,
+      "diem": "Tòa án",
+      "soDanh": "39 - 04"
+    },
+    {
+      "id": 1046,
+      "diem": "Trắng hồng",
+      "soDanh": "24 - 84"
+    },
+    {
+      "id": 1047,
+      "diem": "Tranh",
+      "soDanh": "04 - 48 - 85"
+    },
+    {
+      "id": 1048,
+      "diem": "Trâu rừng",
+      "soDanh": "83 - 63"
+    },
+    {
+      "id": 1049,
+      "diem": "Trẻ con cãi nhau",
+      "soDanh": "98 - 89"
+    },
+    {
+      "id": 1050,
+      "diem": "Trèo nóc nhà",
+      "soDanh": "48 - 98"
+    },
+    {
+      "id": 1051,
+      "diem": "Trèo thang",
+      "soDanh": "78 - 33 - 79"
+    },
+    {
+      "id": 1052,
+      "diem": "Trời sao lác đác",
+      "soDanh": "31 - 49"
+    },
+    {
+      "id": 1053,
+      "diem": "Trời xanh",
+      "soDanh": "37 - 77 - 78"
+    },
+    {
+      "id": 1054,
+      "diem": "Trộm cắp",
+      "soDanh": "05 - 45 - 85"
+    },
+    {
+      "id": 1055,
+      "diem": "Trồng cây",
+      "soDanh": "84 - 97"
+    },
+    {
+      "id": 1056,
+      "diem": "Trông thấy hai đống cứt tròn",
+      "soDanh": "01 - 02 - 20"
+    },
+    {
+      "id": 1057,
+      "diem": "Trúng đề",
+      "soDanh": "26 - 36 - 76"
+    },
+    {
+      "id": 1058,
+      "diem": "Trúng quả đậm",
+      "soDanh": "75 - 84"
+    },
+    {
+      "id": 1059,
+      "diem": "Trúng số đề",
+      "soDanh": "86 - 68"
+    },
+    {
+      "id": 1060,
+      "diem": "Trường học",
+      "soDanh": "56 - 69 - 83 - 09"
+    },
+    {
+      "id": 1061,
+      "diem": "Từ giã",
+      "soDanh": "31 - 32 - 87"
+    },
+    {
+      "id": 1062,
+      "diem": "Tử hình sống lại",
+      "soDanh": "48 - 51 - 71"
+    },
+    {
+      "id": 1063,
+      "diem": "Tủ lạnh",
+      "soDanh": "24"
+    },
+    {
+      "id": 1064,
+      "diem": "Tủ lệch",
+      "soDanh": "89 - 85"
+    },
+    {
+      "id": 1065,
+      "diem": "Tự nhiên cười",
+      "soDanh": "14 - 21"
+    },
+    {
+      "id": 1066,
+      "diem": "Tủ sách",
+      "soDanh": "37 - 75"
+    },
+    {
+      "id": 1067,
+      "diem": "Tù tội",
+      "soDanh": "92 - 29"
+    },
+    {
+      "id": 1068,
+      "diem": "Tử vi",
+      "soDanh": "78"
+    },
+    {
+      "id": 1069,
+      "diem": "Tượng đá",
+      "soDanh": "06 - 56"
+    },
+    {
+      "id": 1070,
+      "diem": "Tuồng lương",
+      "soDanh": "09 - 92"
+    },
+    {
+      "id": 1071,
+      "diem": "Vào nhà máy",
+      "soDanh": "08 - 18 - 68"
+    },
+    {
+      "id": 1072,
+      "diem": "Vào vườn",
+      "soDanh": "09 - 90"
+    },
+    {
+      "id": 1073,
+      "diem": "Vây hãm",
+      "soDanh": "03 - 04"
+    },
+    {
+      "id": 1074,
+      "diem": "Vay mượn",
+      "soDanh": "06 - 86"
+    },
+    {
+      "id": 1075,
+      "diem": "Ve gái",
+      "soDanh": "65 - 63"
+    },
+    {
+      "id": 1076,
+      "diem": "Vệ sĩ",
+      "soDanh": "10 - 20 - 80 - 81"
+    },
+    {
+      "id": 1077,
+      "diem": "Vé sổ số",
+      "soDanh": "08 - 28"
+    },
+    {
+      "id": 1078,
+      "diem": "Vé thưởng",
+      "soDanh": "29 - 86"
+    },
+    {
+      "id": 1079,
+      "diem": "Vết máu",
+      "soDanh": "05 - 32 - 64"
+    },
+    {
+      "id": 1080,
+      "diem": "Viên đá nhỏ",
+      "soDanh": "00 - 05 - 38"
+    },
+    {
+      "id": 1081,
+      "diem": "Viên thuốc bổ",
+      "soDanh": "1"
+    },
+    {
+      "id": 1082,
+      "diem": "Vợ biến thành mèo",
+      "soDanh": "54"
+    },
+    {
+      "id": 1083,
+      "diem": "Vợ chồng cãi nhau",
+      "soDanh": "01 - 02 - 52"
+    },
+    {
+      "id": 1084,
+      "diem": "Vợ tự tử",
+      "soDanh": "08 - 18 - 56"
+    },
+    {
+      "id": 1085,
+      "diem": "Vợ vá nhờ quần áo",
+      "soDanh": "07 - 70"
+    },
+    {
+      "id": 1086,
+      "diem": "Vòng hoa",
+      "soDanh": "14 - 41"
+    },
+    {
+      "id": 1087,
+      "diem": "Vú",
+      "soDanh": "93 - 51 - 90 - 09"
+    },
+    {
+      "id": 1088,
+      "diem": "Vua quan",
+      "soDanh": "4"
+    },
+    {
+      "id": 1089,
+      "diem": "Vực thẳm",
+      "soDanh": "17 - 71"
+    },
+    {
+      "id": 1090,
+      "diem": "Xác chết nhiều",
+      "soDanh": "07 - 38 - 78"
+    },
+    {
+      "id": 1091,
+      "diem": "Xác chết",
+      "soDanh": "12 - 52"
+    },
+    {
+      "id": 1092,
+      "diem": "Xây bể nước",
+      "soDanh": "21 - 32"
+    },
+    {
+      "id": 1093,
+      "diem": "Xây dựng bàn thờ",
+      "soDanh": "27 - 72"
+    },
+    {
+      "id": 1094,
+      "diem": "Xây nhà rỡ đi",
+      "soDanh": "08 - 10"
+    },
+    {
+      "id": 1095,
+      "diem": "Xây nhà",
+      "soDanh": "14 - 16"
+    },
+    {
+      "id": 1096,
+      "diem": "Xe bò ba gác",
+      "soDanh": "07 - 87"
+    },
+    {
+      "id": 1097,
+      "diem": "Xe cần cẩu",
+      "soDanh": "56 - 65 - 51"
+    },
+    {
+      "id": 1098,
+      "diem": "Xe cấp cứu",
+      "soDanh": "05 - 50"
+    },
+    {
+      "id": 1099,
+      "diem": "Xe đạp",
+      "soDanh": "02 - 18 - 28"
+    },
+    {
+      "id": 1100,
+      "diem": "Xe điện",
+      "soDanh": "01 - 06 - 16"
+    },
+    {
+      "id": 1101,
+      "diem": "Xe đu",
+      "soDanh": "31 - 63 - 68"
+    },
+    {
+      "id": 1102,
+      "diem": "Xe hơi",
+      "soDanh": "82 - 92"
+    },
+    {
+      "id": 1103,
+      "diem": "Xe lu",
+      "soDanh": "31 - 41"
+    },
+    {
+      "id": 1104,
+      "diem": "Xe máy",
+      "soDanh": "42 - 47 - 72"
+    },
+    {
+      "id": 1105,
+      "diem": "Xe ngựa",
+      "soDanh": "15 - 52 - 92"
+    },
+    {
+      "id": 1106,
+      "diem": "Xem đá bóng",
+      "soDanh": "72 - 96"
+    },
+    {
+      "id": 1107,
+      "diem": "Xem đám ma",
+      "soDanh": "25 - 52"
+    },
+    {
+      "id": 1108,
+      "diem": "Xem đánh nhau",
+      "soDanh": "89"
+    },
+    {
+      "id": 1109,
+      "diem": "Xem hai bà cãi nhau",
+      "soDanh": "8"
+    },
+    {
+      "id": 1110,
+      "diem": "Xem kịch",
+      "soDanh": "13 - 63 - 35"
+    },
+    {
+      "id": 1111,
+      "diem": "Xem phim",
+      "soDanh": "90 - 78"
+    },
+    {
+      "id": 1112,
+      "diem": "Xì hơi xe",
+      "soDanh": "42 - 92"
+    },
+    {
+      "id": 1113,
+      "diem": "Xích lô",
+      "soDanh": "18 - 19 - 94"
+    },
+    {
+      "id": 1114,
+      "diem": "Xích mích với bạn",
+      "soDanh": "6"
+    },
+    {
+      "id": 1115,
+      "diem": "Xiên cá rô",
+      "soDanh": "03 - 05 - 50"
+    },
+    {
+      "id": 1116,
+      "diem": "Xóm cũ",
+      "soDanh": "64 - 47"
+    },
+    {
+      "id": 1117,
+      "diem": "Xung phong",
+      "soDanh": "92 - 94"
+    },
+    {
+      "id": 1118,
+      "diem": "Yêu đương",
+      "soDanh": "24 - 87 - 86"
+    },
+    {
+      "id": 1119,
+      "diem": "Yêu",
+      "soDanh": "75 - 70"
+    }
+  ],
+  "pagination": null
+}
