@@ -1,6 +1,4 @@
 [
-  {
-    "data": [
       {
         "id": 1,
         "content": "\uD83E\uDD21 phiu đờ bít",
@@ -32,7 +30,5 @@
         "is_liked": true,
         "is_commented": false,
         "liked_count": 4125
-      },
-    ]
-  }
+      }
 ]
