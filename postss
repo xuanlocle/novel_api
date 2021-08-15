@@ -1,0 +1,34 @@
+[
+      {
+        "id": 1,
+        "content": "\uD83E\uDD21 phiu đờ bít",
+        "content_image_url": "https://scontent.fsgn3-1.fna.fbcdn.net/v/t39.30808-6/p526x296/238810469_1752334154977176_7495119251130764724_n.png?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=Q8D3X4lafvQAX-Dqjcn&_nc_ht=scontent.fsgn3-1.fna&oh=b06c469b0651b105a0636daf0d566fb4&oe=611EF345",
+        "created_at": "2021-08-13T14:59:49Z",
+        "owner": {
+          "id": 1,
+          "name": "Chuyện Fangirl",
+          "url": "https://www.facebook.com/ChuyenFangirl/?__cft__[0]=AZWT_HYVjpA-oUrsvqD_mngO-clXxHKC0f_5LcJ4QCPDsSH7eYOWJpBvaGfCS91yVvwTUc3celC_0cmFVlc7BQM5YRrkN6SG49CCZ3b2il2mJQ0yCrPGKAMKUoLNZrpEvZTIcwNXZj6Nf0c2G3soCEI_&__tn__=-UC%2CP-R",
+          "avatar_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t1.6435-9/229051835_4305657519499465_4279751770809076085_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=v8nvjsxDAn0AX8kW-QF&_nc_ht=scontent.fsgn8-2.fna&oh=5c2fff9e058a995ff7c1823dc4e8eaba&oe=613C6855"
+        },
+        "is_followed": false,
+        "is_liked": false,
+        "is_commented": false,
+        "liked_count": 4125
+      },
+      {
+        "id": 1,
+        "content": "\uD83E\uDD21 phiu đờ bít",
+        "content_image_url": "https://scontent.fsgn3-1.fna.fbcdn.net/v/t39.30808-6/p526x296/238810469_1752334154977176_7495119251130764724_n.png?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=Q8D3X4lafvQAX-Dqjcn&_nc_ht=scontent.fsgn3-1.fna&oh=b06c469b0651b105a0636daf0d566fb4&oe=611EF345",
+        "created_at": "2021-08-13T14:59:49Z",
+        "owner": {
+          "id": 1,
+          "name": "Chuyện Fangirl",
+          "url": "https://www.facebook.com/ChuyenFangirl/?__cft__[0]=AZWT_HYVjpA-oUrsvqD_mngO-clXxHKC0f_5LcJ4QCPDsSH7eYOWJpBvaGfCS91yVvwTUc3celC_0cmFVlc7BQM5YRrkN6SG49CCZ3b2il2mJQ0yCrPGKAMKUoLNZrpEvZTIcwNXZj6Nf0c2G3soCEI_&__tn__=-UC%2CP-R",
+          "avatar_url": "https://scontent.fsgn8-2.fna.fbcdn.net/v/t1.6435-9/229051835_4305657519499465_4279751770809076085_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=v8nvjsxDAn0AX8kW-QF&_nc_ht=scontent.fsgn8-2.fna&oh=5c2fff9e058a995ff7c1823dc4e8eaba&oe=613C6855"
+        },
+        "is_followed": true,
+        "is_liked": true,
+        "is_commented": false,
+        "liked_count": 4125
+      }
+]
